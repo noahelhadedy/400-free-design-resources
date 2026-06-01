@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🎨 300+ Free Design Resources
+# 🎨 400+ Free Design Resources
 
 **A massive, hand-curated list of free resources for designers — fonts, icons, illustrations, mockups, UI kits, color tools, stock media, and more.**
 
 > Everything here is free to use (many also for commercial work — always double-check each license).
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Resources](https://img.shields.io/badge/resources-300%2B-ff5c8d)
+![Resources](https://img.shields.io/badge/resources-400%2B-ff5c8d)
 ![Categories](https://img.shields.io/badge/categories-30%2B-7c5cfc)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-22c55e)
 ![Maintained](https://img.shields.io/badge/maintained-yes-0ea5e9)
@@ -82,6 +82,14 @@
 | [Atipo Foundry](https://www.atipofoundry.com) | Pay-what-you-want quality fonts. |
 | [Use & Modify](https://usemodify.com) | Curated free fonts you can use and modify. |
 | [Indestructible Type](https://indestructibletype.com) | Free, open-source fonts. |
+| [Fontsource](https://fontsource.org) | Self-host open-source fonts via npm. |
+| [Free Faces](https://www.freefaces.gallery) | Curated gallery of free typefaces. |
+| [FontSpace](https://www.fontspace.com) | 100,000+ free fonts with license filters. |
+| [CufonFonts](https://www.cufonfonts.com) | Large free font archive incl. Arabic. |
+| [Lost Type](https://www.losttype.com) | Pay-what-you-want type foundry. |
+| [Pangram Pangram (Free)](https://pangrampangram.com) | Free quality fonts from a premium foundry. |
+| [Brick](https://brick.im) | Fast open-source font hosting. |
+| [Google Webfonts Helper](https://gwfh.mranftl.com) | Download & self-host Google Fonts easily. |
 
 ## 🔣 Icons
 
@@ -105,6 +113,18 @@
 | [Untitled UI Icons](https://www.untitledui.com/icons) | 1,100+ clean free line icons. |
 | [Pixelarticons](https://pixelarticons.com) | Free pixel-style icon set. |
 | [Simple Icons](https://simpleicons.org) | 3,000+ free SVG brand/logo icons. |
+| [Font Awesome (Free)](https://fontawesome.com) | The classic, huge icon library. |
+| [Ionicons](https://ionic.io/ionicons) | Premium open-source icons by Ionic. |
+| [Boxicons](https://boxicons.com) | 1,500+ free simple web icons. |
+| [Lineicons](https://lineicons.com) | 5,000+ free line & solid icons. |
+| [Eva Icons](https://akveo.github.io/eva-icons) | 480+ open-source icons in 2 styles. |
+| [Radix Icons](https://www.radix-ui.com/icons) | Crisp 15×15 icons from Radix. |
+| [css.gg](https://css.gg) | 700+ open-source icons in pure CSS/SVG. |
+| [Teenyicons](https://teenyicons.com) | Tiny minimal 15×15 icons. |
+| [Akar Icons](https://akaricons.com) | Perfectly rounded open-source icons. |
+| [System UIcons](https://systemuicons.com) | Free interface icons, growing set. |
+| [Mono Icons](https://icons.mono.company) | Simple, consistent open-source set. |
+| [Flowbite Icons](https://flowbite.com/icons) | Free solid & outline UI icons. |
 
 ## 🖼️ Illustrations
 
@@ -125,6 +145,16 @@
 | [Ira Design](https://iradesign.io) | Free customizable illustrations. |
 | [Error 404](https://error404.fun) | Free illustrations for empty/error states. |
 | [Scale by Pixel True](https://www.pixeltrue.com/free-illustrations) | Free animated & static illustrations. |
+| [Ouch! by Icons8](https://icons8.com/illustrations) | Huge free illustration library in many styles. |
+| [Black Illustrations](https://www.blackillustrations.com) | Free illustrations of Black people. |
+| [Fresh Folk](https://fresh-folk.com) | Illustration library of people & objects. |
+| [Avataaars](https://getavataaars.com) | Free mix-and-match avatar generator. |
+| [Croods](https://croods.io) | Free customizable character illustrations. |
+| [Transhumans](https://transhumans.xyz) | Free quirky 3D-ish character illustrations. |
+| [Stubborn](https://stubborn.fun) | Free hand-drawn character illustrations. |
+| [Delesign](https://delesign.com/free-designs/graphics) | Free graphics & illustrations. |
+| [Isometric](https://isometric.online) | Free isometric illustration builder. |
+| [Vecteezy](https://www.vecteezy.com) | Millions of free vectors (with attribution). |
 
 ## 📸 Stock Photos
 
@@ -144,6 +174,18 @@
 | [ISO Republic](https://isorepublic.com) | Free photos & videos for creatives. |
 | [Foodiesfeed](https://www.foodiesfeed.com) | Free food photography. |
 | [Nappy](https://nappy.co) | Free photos of Black and Brown people. |
+| [Openverse](https://openverse.org) | Search 800M+ openly-licensed images. |
+| [Negative Space](https://negativespace.co) | Free high-resolution stock photos. |
+| [New Old Stock](https://nos.twnsnd.co) | Vintage public-domain photos. |
+| [Rawpixel (Free)](https://www.rawpixel.com) | Free photos, PSDs & public-domain art. |
+| [Picography](https://picography.co) | Free hi-res photos, no restrictions. |
+| [Skitterphoto](https://skitterphoto.com) | Free public-domain photos. |
+| [Libreshot](https://libreshot.com) | Free photos for any use. |
+| [Magdeleine](https://magdeleine.co) | Hand-picked free photos, daily. |
+| [Styled Stock](https://styledstock.co) | Free styled photos for brands. |
+| [The Stocks](https://thestocks.im) | Aggregator of the best free stock sites. |
+| [Pikwizard](https://pikwizard.com) | 1M+ free photos, many exclusive. |
+| [Generated Photos](https://generated.photos) | Free AI-generated human faces. |
 
 ## 🎬 Stock Videos
 
@@ -156,6 +198,10 @@
 | [Videvo](https://www.videvo.net) | Free stock video & motion graphics. |
 | [Pixabay Videos](https://pixabay.com/videos) | Free royalty-free video clips. |
 | [Life of Vids](https://www.lifeofvids.com) | Free video clips & loops. |
+| [Dareful](https://dareful.com) | Free 4K stock footage (CC-BY). |
+| [Vidsplay](https://www.vidsplay.com) | Free stock video clips. |
+| [Motion Places](https://www.motionplaces.com) | Free travel & location footage. |
+| [Splitshire](https://www.splitshire.com) | Free photos & video clips. |
 
 ## 🎵 Sound & Audio
 
@@ -168,6 +214,11 @@
 | [Free Music Archive](https://freemusicarchive.org) | Free, legal audio downloads. |
 | [Uppbeat](https://uppbeat.io) | Free music for creators. |
 | [Chosic](https://www.chosic.com/free-music) | Free background music & SFX. |
+| [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk) | 33,000+ free BBC archive sounds. |
+| [YouTube Audio Library](https://www.youtube.com/audiolibrary) | Free music & SFX for creators. |
+| [Bensound](https://www.bensound.com) | Royalty-free music for projects. |
+| [Incompetech](https://incompetech.com) | Kevin MacLeod's royalty-free music. |
+| [99Sounds](https://99sounds.org) | Free professional sound effect packs. |
 
 ## 🧊 3D Assets
 
@@ -181,6 +232,14 @@
 | [Quaternius](https://quaternius.com) | Free 3D model packs (CC0). |
 | [Kenney Assets](https://kenney.nl/assets) | Free 2D & 3D game assets (CC0). |
 | [Sketchfab (free)](https://sketchfab.com/features/free-3d-models) | Huge library with downloadable free models. |
+| [Poly Haven](https://polyhaven.com) | Free CC0 HDRIs, textures & 3D models. |
+| [ambientCG](https://ambientcg.com) | Free CC0 PBR materials & textures. |
+| [Blender](https://www.blender.org) | Free open-source 3D creation suite. |
+| [BlenderKit](https://www.blenderkit.com) | Free models, materials & brushes for Blender. |
+| [Womp](https://womp.com) | Free easy in-browser 3D creation tool. |
+| [Vectary](https://www.vectary.com) | Free in-browser 3D & AR design. |
+| [Free3D](https://free3d.com) | Thousands of free downloadable 3D models. |
+| [Pixexid 3D / Threedee](https://threedee.icons8.com) | Free 3D illustrations by Icons8. |
 
 ## 📱 Mockups
 
@@ -196,6 +255,12 @@
 | [Facebook Devices](https://design.facebook.com/toolsandresources/devices) | Free Meta device mockup templates. |
 | [MockRocket](https://mockrocket.io) | 3D device mockups (free tier). |
 | [Angle](https://angle.sh) | Free vector device mockups. |
+| [Smartmockups](https://smartmockups.com) | Large mockup generator (free tier). |
+| [Previewed](https://previewed.app) | Free 3D app & device mockups. |
+| [Mockey](https://mockey.ai) | Free unlimited product mockups. |
+| [Artboard Studio](https://artboard.studio) | Mockup & graphic design tool (free tier). |
+| [Rotato (Free assets)](https://rotato.app) | Animated 3D device mockups. |
+| [Designstripe](https://designstripe.com) | Customizable mockups & illustrations. |
 
 ## 🧰 UI Kits & Design Files
 
@@ -213,6 +278,18 @@
 | [DaisyUI](https://daisyui.com) | Free Tailwind CSS component library. |
 | [Pawly / Vault / Sable (UI8)](https://ui8.net) | Premium kits marketplace (paid, with free freebies). |
 | [Setproduct](https://www.setproduct.com) | Free & premium Figma design systems. |
+| [Radix UI](https://www.radix-ui.com) | Unstyled, accessible React primitives. |
+| [Headless UI](https://headlessui.com) | Unstyled accessible components for Tailwind. |
+| [Mantine](https://mantine.dev) | 120+ free React components & hooks. |
+| [Chakra UI](https://chakra-ui.com) | Accessible React component library. |
+| [HeroUI](https://www.heroui.com) | Modern React UI library (ex-NextUI). |
+| [Hyper UI](https://www.hyperui.dev) | Free open-source Tailwind components. |
+| [Meraki UI](https://merakiui.com) | Free Tailwind components, RTL-ready. |
+| [Float UI](https://floatui.com) | Free modern Tailwind UI blocks. |
+| [HTML5 UP](https://html5up.net) | Free responsive HTML site templates. |
+| [Start Bootstrap](https://startbootstrap.com) | Free Bootstrap themes & templates. |
+| [Cruip](https://cruip.com) | Free Tailwind landing-page templates. |
+| [Wicked Blocks](https://wickedblocks.dev) | 100+ free Tailwind blocks. |
 
 ## 🪄 Lottie & Animations
 
@@ -225,6 +302,9 @@
 | [SVGator](https://www.svgator.com) | Animate SVGs in-browser (free tier). |
 | [Rive](https://rive.app) | Interactive animations & state machines (free tier). |
 | [Haikei](https://haikei.app) | Generate animated/static SVG visuals. |
+| [Lottielab](https://www.lottielab.com) | Create & edit Lottie animations in-browser. |
+| [Jitter](https://jitter.video) | Easy motion design tool (free tier). |
+| [Animated Icons (Google)](https://fonts.google.com/icons) | Material animated icon set. |
 
 ## 🎭 Patterns, Textures & Backgrounds
 
@@ -240,6 +320,11 @@
 | [Cool Backgrounds](https://coolbackgrounds.io) | Generate background images. |
 | [Lummi](https://www.lummi.ai) | Free AI-curated images & backgrounds. |
 | [Unblast](https://unblast.com) | Free design resources, textures & mockups. |
+| [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns) | Free tileable background patterns. |
+| [BGJar](https://bgjar.com) | Free SVG background generator. |
+| [Vanta.js](https://www.vantajs.com) | Animated 3D website backgrounds. |
+| [Patternico](https://patternico.com) | Make seamless patterns from emojis/icons. |
+| [Doodad](https://doodad.dev/pattern-generator) | Free pattern generator. |
 
 ## 〰️ Shapes, Blobs & SVG Generators
 
@@ -270,6 +355,15 @@
 | [Hue.tools](https://hue.tools) | Color manipulation & info tool. |
 | [ColorBox (Lyft)](https://colorbox.io) | Systematic color scale generator. |
 | [Color Names](https://colors.artyclick.com) | Find the name of any color. |
+| [Colormind](http://colormind.io) | AI-powered palette generator. |
+| [Huemint](https://huemint.com) | AI brand & palette color generator. |
+| [My Color Space](https://mycolor.space) | Generate matching palettes & gradients. |
+| [Flat UI Colors](https://flatuicolors.com) | Popular flat color swatches. |
+| [Color Supply](https://colorsupplyyy.com) | Color schemes with usage examples. |
+| [ColorKit](https://colorkit.co) | Color palette tools & scales. |
+| [Brandcolors](https://brandcolors.net) | Official colors of popular brands. |
+| [Material Palette](https://www.materialpalette.com) | Generate Material color schemes. |
+| [Palettte App](https://palettte.app) | Edit & refine color systems. |
 
 ## 🎨 Gradients
 
@@ -283,6 +377,11 @@
 | [WebGradients](https://webgradients.com) | 180 free linear gradients. |
 | [Mesher](https://csshero.org/mesher) | Mesh gradient generator with code export. |
 | [Gradient Magic](https://www.gradientmagic.com) | Advanced & animated CSS gradients. |
+| [Coolhue](https://webkul.github.io/coolhue) | Curated gradient hues with code. |
+| [Gradients.app](https://www.gradients.app) | Generate & customize CSS gradients. |
+| [Mesh Gradient (in)](https://meshgradient.in) | Free mesh gradient generator. |
+| [BGJar Gradients](https://bgjar.com) | Gradient & SVG background tool. |
+| [CSS Hero Mesher](https://csshero.org/mesher) | Mesh gradient generator with export. |
 
 ## 🔡 Typography Tools
 
@@ -298,6 +397,10 @@
 | [Wordmark.it](https://wordmark.it) | Preview your text in all installed fonts. |
 | [Capsize](https://seek-oss.github.io/capsize) | Trim typography whitespace precisely. |
 | [Archetype (Fontsmith)](https://archetypeapp.com) | Build & preview type systems. |
+| [Utopia](https://utopia.fyi) | Fluid responsive type & space scales. |
+| [Fluid Type Scale](https://www.fluid-type-scale.com) | Generate clamp()-based fluid type. |
+| [Typetester](https://www.typetester.org) | Compare fonts side by side. |
+| [Beautiful Web Type](https://beautifulwebtype.com) | Showcase of the best Google Fonts. |
 
 ## ✏️ Design & Prototyping Tools
 
@@ -314,6 +417,11 @@
 | [Lunacy](https://icons8.com/lunacy) | Free design app with built-in assets. |
 | [Gravit / Vectr](https://vectr.com) | Free vector graphics editor. |
 | [Spline](https://spline.design) | Free 3D design & prototyping. |
+| [Inkscape](https://inkscape.org) | Free open-source vector editor. |
+| [GIMP](https://www.gimp.org) | Free open-source image editor. |
+| [Krita](https://krita.org) | Free painting & illustration software. |
+| [Pixlr](https://pixlr.com) | Free in-browser photo editor. |
+| [Method Draw](https://editor.method.ac) | Simple free in-browser SVG editor. |
 
 ## 📐 Wireframing
 
@@ -341,6 +449,13 @@
 | [Designer.microsoft](https://designer.microsoft.com) | Free AI graphic design from Microsoft. |
 | [Magician for Figma](https://magician.design) | AI design plugin for Figma. |
 | [Vance AI / Pixelcut](https://www.pixelcut.ai) | AI image editing & upscaling. |
+| [Ideogram](https://ideogram.ai) | AI image gen with great text rendering. |
+| [Krea](https://www.krea.ai) | Real-time AI image generation (free tier). |
+| [Clipdrop](https://clipdrop.co) | AI image tools — cleanup, relight, upscale. |
+| [Photoroom](https://www.photoroom.com) | AI product photo & background editor. |
+| [Vectorizer.ai](https://vectorizer.ai) | Convert raster images to SVG with AI. |
+| [Playground](https://playground.com) | Free AI image creation tool. |
+| [Leonardo.ai](https://leonardo.ai) | AI art & asset generation (free tier). |
 
 ## 🏷️ Logo & Branding
 
@@ -372,6 +487,14 @@
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app) | Visually build CSS grids. |
 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius) | Organic shapes via border-radius. |
 | [Get CSS Scan Buttons](https://getcssscan.com/css-buttons-examples) | 100+ copy-paste CSS buttons. |
+| [Animista](https://animista.net) | On-demand CSS animation library. |
+| [Easings.net](https://easings.net) | Reference for CSS easing functions. |
+| [Cubic-Bezier](https://cubic-bezier.com) | Build & visualize bezier easing curves. |
+| [Keyframes.app](https://keyframes.app) | Visually build CSS keyframe animations. |
+| [CSS Loaders](https://css-loaders.com) | 600+ pure-CSS loading spinners. |
+| [Ray.so](https://ray.so) | Turn code into beautiful images. |
+| [Carbon](https://carbon.now.sh) | Create & share images of source code. |
+| [Hover.css](https://ianlunn.github.io/Hover) | Collection of CSS hover effects. |
 
 ## 🗜️ Image Optimization
 
@@ -384,6 +507,9 @@
 | [iLoveIMG](https://www.iloveimg.com) | Bulk resize, compress & convert. |
 | [Recompressor](https://recompressor.com) | Find the best compression settings. |
 | [Image Resizer (Photopea)](https://www.photopea.com) | Free resize & export. |
+| [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview. |
+| [ShortPixel](https://shortpixel.com) | Smart image & PDF compression. |
+| [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG. |
 
 ## ♿ Accessibility
 
@@ -397,6 +523,10 @@
 | [Colorblindly / Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator) | Color-blindness simulator. |
 | [A11y Project](https://www.a11yproject.com) | Community-driven accessibility checklist & docs. |
 | [Able (Figma plugin)](https://www.figma.com/community/plugin/734693888346260052) | Contrast checking in Figma. |
+| [WAVE](https://wave.webaim.org) | Free web accessibility evaluation tool. |
+| [axe DevTools](https://www.deque.com/axe) | Industry-standard a11y testing engine. |
+| [Color Review](https://color.review) | Check contrast as you tune colors. |
+| [Contrast Grid](https://contrast-grid.eightshapes.com) | Test many color combos at once. |
 
 ## 📧 Email Design
 
@@ -453,6 +583,18 @@
 | [Collect UI](https://collectui.com) | Daily inspiration from Dribbble shots. |
 | [Nicelydone](https://nicelydone.club) | SaaS & web app screenshots library. |
 | [Screenlane](https://screenlane.com) | Latest mobile & web UI trends. |
+| [One Page Love](https://onepagelove.com) | The best one-page website designs. |
+| [SiteInspire](https://www.siteinspire.com) | Curated web design showcase. |
+| [Landingfolio](https://www.landingfolio.com) | Landing page inspiration & components. |
+| [Minimal Gallery](https://minimal.gallery) | Beautifully minimal websites. |
+| [Footer Design](https://www.footer.design) | Inspiration just for footers. |
+| [Navbar Gallery](https://navbar.gallery) | Inspiration just for navbars. |
+| [Mobile Patterns](https://www.mobile-patterns.com) | Mobile UI patterns by element. |
+| [Pttrns](https://pttrns.com) | Mobile design patterns library. |
+| [UI Sources](https://www.uisources.com) | Real app flows & interactions. |
+| [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites. |
+| [Httpster](https://httpster.net) | Curated modern website inspiration. |
+| [Curated.design](https://www.curated.design) | Hand-picked web design inspiration. |
 
 ## 🏛️ Design Systems (References)
 
@@ -486,6 +628,12 @@
 | [Goodpractices / Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules) | Safe visual design rules. |
 | [Practical UI (book)](https://www.practical-ui.com) | Rules & guidelines reference. |
 | [Growth.Design](https://growth.design/case-studies) | UX case studies as comics. |
+| [Interaction Design Foundation](https://www.interaction-design.org) | Affordable, in-depth UX courses & free articles. |
+| [Hack Design](https://hackdesign.org) | Free design course delivered by email. |
+| [UX Tools](https://uxtools.co) | Tool guides & annual design-tool surveys. |
+| [Built for Mars](https://builtformars.com) | Deep real-world UX teardowns. |
+| [Roadmap.sh (UX)](https://roadmap.sh) | Community learning roadmaps. |
+| [Design+Code](https://designcode.io) | Design & code video courses (free intros). |
 
 ## 📰 Newsletters
 
