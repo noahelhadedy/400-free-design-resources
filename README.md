@@ -388,7 +388,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 241 | [DjectStudio](https://djectstudio.com/store) | Noah Elhadedy’s store — premium & free UI kits and design templates |
+| 241 | [DjectStudio](https://djectstudio.com/store) | Premium & free UI kits and design templates |
 | 242 | [Figma Community](https://www.figma.com/community) | Thousands of free UI kits, templates & plugins |
 | 243 | [Untitled UI (Free)](https://www.untitledui.com) | Free starter of the popular Figma UI kit |
 | 244 | [Material Design Kit](https://m3.material.io) | Google's official design kit & components |
