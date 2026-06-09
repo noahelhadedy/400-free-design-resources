@@ -79,6 +79,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 5 | [The League of Moveable Type](https://www.theleagueofmoveabletype.com) | Classic open-source font foundry (League Spartan, etc.) |
 | 6 | [Befonts](https://befonts.com) | Free fonts and demo/personal-use typefaces |
 | 7 | [DaFont](https://www.dafont.com) | Huge archive of free fonts (check licenses) |
+- [FontBoxDL](https://fontboxdl.com/) - free font library with 60,000+ typefaces, instant download with no signup, plus font tools (fancy text, font-to-SVG for Cricut)
 | 8 | [1001 Fonts](https://www.1001fonts.com) | Large free font directory with commercial-use filter |
 | 9 | [Font Squirrel](https://www.fontsquirrel.com) | Hand-picked free fonts, all commercial-friendly |
 | 10 | [Open Foundry](https://open-foundry.com) | Curated open-source typefaces |
