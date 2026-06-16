@@ -335,112 +335,113 @@
 334,Vectorizer.ai,AI Design Tools,Tools,Convert raster images to SVG with AI,https://vectorizer.ai
 335,Playground,AI Design Tools,Tools,Free AI image creation tool,https://playground.com
 336,Leonardo.ai,AI Design Tools,Tools,AI art & asset generation (free tier),https://leonardo.ai
-337,LogoSearch,Logo & Branding,Tools,Search real-world logos for inspiration,https://logosear.ch
-338,Brandfetch,Logo & Branding,Tools,"Find any brand's logos, colors & fonts",https://brandfetch.com
-339,SVGL,Logo & Branding,Tools,Free library of SVG brand logos,https://svgl.app
-340,Worldvectorlogo,Logo & Branding,Tools,Thousands of free brand logos in SVG,https://worldvectorlogo.com
-341,Hatchful (Shopify),Logo & Branding,Tools,Free logo maker,https://www.shopify.com/tools/logo-maker
-342,LogoMakr,Logo & Branding,Tools,Free in-browser logo creator,https://logomakr.com
-343,Looka (free preview),Logo & Branding,Tools,AI logo generator,https://looka.com
-344,Namelix,Logo & Branding,Tools,AI business name + logo generator,https://namelix.com
-345,Logo.com,Logo & Branding,Tools,Free logo maker & brand kit,https://logo.com
-346,TinyPNG,Image Optimization,Tools,Smart PNG/JPEG/WebP compression,https://tinypng.com
-347,Squoosh,Image Optimization,Tools,Google's in-browser image compressor,https://squoosh.app
-348,SVGOMG,Image Optimization,Tools,Optimize & clean up SVG files,https://jakearchibald.github.io/svgomg
-349,Compressor.io,Image Optimization,Tools,Strong lossy/lossless compression,https://compressor.io
-350,iLoveIMG,Image Optimization,Tools,"Bulk resize, compress & convert",https://www.iloveimg.com
-351,Recompressor,Image Optimization,Tools,Find the best compression settings,https://recompressor.com
-352,Image Resizer (Photopea),Image Optimization,Tools,Free resize & export,https://www.photopea.com
-353,Optimizilla,Image Optimization,Tools,Bulk image compressor with preview,https://imagecompressor.com
-354,ShortPixel,Image Optimization,Tools,Smart image & PDF compression,https://shortpixel.com
-355,Vectorizer (SVG),Image Optimization,Tools,Trace bitmaps into vector SVG,https://www.vectorizer.io
-356,WebAIM Contrast Checker,Accessibility,Tools,The standard color-contrast checker,https://webaim.org/resources/contrastchecker
-357,Stark,Accessibility,Tools,Accessibility toolkit for Figma & browsers,https://www.getstark.co
-358,Who Can Use,Accessibility,Tools,See how color combos affect vision types,https://www.whocanuse.com
-359,Accessible Colors,Accessibility,Tools,Find WCAG-compliant color pairs,https://accessible-colors.com
-360,Contrast Ratio (Lea Verou),Accessibility,Tools,Quick contrast calculator,https://contrast-ratio.com
-361,Colorblindly / Coblis,Accessibility,Tools,Color-blindness simulator,https://www.color-blindness.com/coblis-color-blindness-simulator
-362,A11y Project,Accessibility,Tools,Community-driven accessibility checklist & docs,https://www.a11yproject.com
-363,Able (Figma plugin),Accessibility,Tools,Contrast checking in Figma,https://www.figma.com/community/plugin/734693888346260052
-364,WAVE,Accessibility,Tools,Free web accessibility evaluation tool,https://wave.webaim.org
-365,axe DevTools,Accessibility,Tools,Industry-standard a11y testing engine,https://www.deque.com/axe
-366,Color Review,Accessibility,Tools,Check contrast as you tune colors,https://color.review
-367,Contrast Grid,Accessibility,Tools,Test many color combos at once,https://contrast-grid.eightshapes.com
-368,WhatFont,Browser Extensions,Tools,Identify fonts on any web page,https://www.chromeextensionkit.com
-369,ColorZilla,Browser Extensions,Tools,Eyedropper & color picker for the browser,https://www.colorzilla.com
-370,CSS Peeper,Browser Extensions,Tools,"Inspect styles, colors & assets of sites",https://csspeeper.com
-371,VisBug,Browser Extensions,Tools,Google's browser design debug toolbar,https://visbug.web.app
-372,Window Resizer,Browser Extensions,Tools,Test responsive breakpoints,https://chromewebstore.google.com
-373,Fonts Ninja,Browser Extensions,Tools,"Identify, try & buy fonts from any site",https://www.fonts.ninja
-374,WhatRuns,Browser Extensions,Tools,Discover the tech & fonts a site uses,https://www.whatruns.com
-375,Page Ruler / Dimensions,Browser Extensions,Tools,Measure elements on screen,https://felixniklas.com/dimensions
-376,Really Good Emails,Email Design,Email & Slides,The best email design gallery,https://reallygoodemails.com
-377,MJML,Email Design,Email & Slides,Open-source responsive email framework,https://mjml.io
-378,Stripo,Email Design,Email & Slides,Free email template builder,https://stripo.email
-379,BEE Free,Email Design,Email & Slides,Drag-and-drop email editor,https://beefree.io
-380,Litmus Community Templates,Email Design,Email & Slides,Free responsive email templates,https://www.litmus.com/community/templates
-381,Email Love,Email Design,Email & Slides,Curated email design inspiration,https://emaillove.com
-382,Slidesgo,Presentations,Email & Slides,Free Google Slides & PowerPoint templates,https://slidesgo.com
-383,SlidesCarnival,Presentations,Email & Slides,Free presentation templates,https://www.slidescarnival.com
-384,Pitch,Presentations,Email & Slides,Modern collaborative presentation tool (free),https://pitch.com
-385,Canva Presentations,Presentations,Email & Slides,Easy free presentation maker,https://www.canva.com/presentations
-386,Beautiful.ai,Presentations,Email & Slides,AI-assisted slide design (free trial),https://www.beautiful.ai
-387,Gamma,Presentations,Email & Slides,AI presentation & doc generator (free tier),https://gamma.app
-388,Dribbble,Design Inspiration,Inspiration & Learning,The largest designer showcase community,https://dribbble.com
-389,Behance,Design Inspiration,Inspiration & Learning,Adobe's portfolio & project platform,https://www.behance.net
-390,Awwwards,Design Inspiration,Inspiration & Learning,"The best in web design, awarded daily",https://www.awwwards.com
-391,Mobbin,Design Inspiration,Inspiration & Learning,Real mobile & web app UI patterns,https://mobbin.com
-392,Land-book,Design Inspiration,Inspiration & Learning,Landing page design gallery,https://land-book.com
-393,Godly,Design Inspiration,Inspiration & Learning,Astronomically good web design inspiration,https://godly.website
-394,SaaS Landing Page,Design Inspiration,Inspiration & Learning,SaaS landing page examples,https://saaslandingpage.com
-395,Refero,Design Inspiration,Inspiration & Learning,Searchable real product UI screenshots,https://refero.design
-396,Page Flows,Design Inspiration,Inspiration & Learning,Recorded real product user flows,https://pageflows.com
-397,Calltoidea,Design Inspiration,Inspiration & Learning,UI patterns sorted by element,https://www.calltoidea.com
-398,Httpster,Design Inspiration,Inspiration & Learning,Curated modern website inspiration,https://httpster.net
-399,Lapa Ninja,Design Inspiration,Inspiration & Learning,Best landing page designs,https://www.lapa.ninja
-400,UI Garage,Design Inspiration,Inspiration & Learning,Daily UI inspiration by pattern,https://uigarage.net
-401,Collect UI,Design Inspiration,Inspiration & Learning,Daily inspiration from Dribbble shots,https://collectui.com
-402,Nicelydone,Design Inspiration,Inspiration & Learning,SaaS & web app screenshots library,https://nicelydone.club
-403,Screenlane,Design Inspiration,Inspiration & Learning,Latest mobile & web UI trends,https://screenlane.com
-404,One Page Love,Design Inspiration,Inspiration & Learning,The best one-page website designs,https://onepagelove.com
-405,SiteInspire,Design Inspiration,Inspiration & Learning,Curated web design showcase,https://www.siteinspire.com
-406,Landingfolio,Design Inspiration,Inspiration & Learning,Landing page inspiration & components,https://www.landingfolio.com
-407,Minimal Gallery,Design Inspiration,Inspiration & Learning,Beautifully minimal websites,https://minimal.gallery
-408,Footer Design,Design Inspiration,Inspiration & Learning,Inspiration just for footers,https://www.footer.design
-409,Navbar Gallery,Design Inspiration,Inspiration & Learning,Inspiration just for navbars,https://navbar.gallery
-410,Mobile Patterns,Design Inspiration,Inspiration & Learning,Mobile UI patterns by element,https://www.mobile-patterns.com
-411,Pttrns,Design Inspiration,Inspiration & Learning,Mobile design patterns library,https://pttrns.com
-412,UI Sources,Design Inspiration,Inspiration & Learning,Real app flows & interactions,https://www.uisources.com
-413,Dark Mode Design,Design Inspiration,Inspiration & Learning,Showcase of dark-mode websites,https://www.darkmodedesign.com
-414,Curated.design,Design Inspiration,Inspiration & Learning,Hand-picked web design inspiration,https://www.curated.design
-415,Smashing Magazine,Learning & Blogs,Inspiration & Learning,In-depth design & dev articles,https://www.smashingmagazine.com
-416,NN/g (Nielsen Norman),Learning & Blogs,Inspiration & Learning,The authority on UX research,https://www.nngroup.com/articles
-417,Laws of UX,Learning & Blogs,Inspiration & Learning,"Key UX principles, beautifully explained",https://lawsofux.com
-418,Refactoring UI,Learning & Blogs,Inspiration & Learning,Practical visual design tips for non-designers,https://www.refactoringui.com
-419,Learn UI Design (blog),Learning & Blogs,Inspiration & Learning,Tactical UI design articles,https://www.learnui.design/blog
-420,UX Collective,Learning & Blogs,Inspiration & Learning,One of the biggest design publications,https://uxdesign.cc
-421,Designer Hangout / UX Planet,Learning & Blogs,Inspiration & Learning,UX articles & community,https://uxplanet.org
-422,Checklist Design,Learning & Blogs,Inspiration & Learning,Best-practice checklists per UI element,https://www.checklist.design
-423,UI Patterns,Learning & Blogs,Inspiration & Learning,Catalog of UI design patterns,https://ui-patterns.com
-424,Goodpractices / Anthony Hobday,Learning & Blogs,Inspiration & Learning,Safe visual design rules,https://anthonyhobday.com/sideprojects/saferules
-425,Practical UI (book),Learning & Blogs,Inspiration & Learning,Rules & guidelines reference,https://www.practical-ui.com
-426,Growth.Design,Learning & Blogs,Inspiration & Learning,UX case studies as comics,https://growth.design/case-studies
-427,Interaction Design Foundation,Learning & Blogs,Inspiration & Learning,"Affordable, in-depth UX courses & free articles",https://www.interaction-design.org
-428,Hack Design,Learning & Blogs,Inspiration & Learning,Free design course delivered by email,https://hackdesign.org
-429,UX Tools,Learning & Blogs,Inspiration & Learning,Tool guides & annual design-tool surveys,https://uxtools.co
-430,Built for Mars,Learning & Blogs,Inspiration & Learning,Deep real-world UX teardowns,https://builtformars.com
-431,Roadmap.sh (UX),Learning & Blogs,Inspiration & Learning,Community learning roadmaps,https://roadmap.sh
-432,Design+Code,Learning & Blogs,Inspiration & Learning,Design & code video courses (free intros),https://designcode.io
-433,Sidebar,Newsletters,Inspiration & Learning,"5 best design links, daily",https://sidebar.io
-434,UX Design Weekly,Newsletters,Inspiration & Learning,Curated UX links weekly,https://uxdesignweekly.com
-435,Dense Discovery,Newsletters,Inspiration & Learning,Thoughtful design & tech newsletter,https://www.densediscovery.com
-436,Designer News,Newsletters,Inspiration & Learning,Community design news,https://www.designernews.co
-437,Case Study Club,Newsletters,Inspiration & Learning,Curated UX case studies,https://www.casestudy.club
-438,Femke's Design Newsletter,Newsletters,Inspiration & Learning,Design career & craft,https://www.femkesvs.com
-439,The Futur,Podcasts & YouTube,Inspiration & Learning,Design business & creative career,https://www.youtube.com/@thefutur
-440,Flux Academy,Podcasts & YouTube,Inspiration & Learning,Web design & freelancing,https://www.youtube.com/@FluxAcademy
-441,DesignCourse,Podcasts & YouTube,Inspiration & Learning,UI/UX & front-end tutorials,https://www.youtube.com/@DesignCourse
-442,AJ&Smart,Podcasts & YouTube,Inspiration & Learning,Design sprints & product design,https://www.youtube.com/@AJSmart
-443,Honest UX Talks,Podcasts & YouTube,Inspiration & Learning,Candid UX career conversations,https://honestuxtalks.com
-444,Design Better Podcast,Podcasts & YouTube,Inspiration & Learning,Conversations with design leaders,https://www.designbetter.co/podcast
-445,Layout (Relay FM),Podcasts & YouTube,Inspiration & Learning,Design craft & career talk,https://www.relay.fm/layout
+337,igly.ai,AI Design Tools,Tools,"AI image editing with background removal, inpainting & upscaling",https://igly.ai
+338,LogoSearch,Logo & Branding,Tools,Search real-world logos for inspiration,https://logosear.ch
+339,Brandfetch,Logo & Branding,Tools,"Find any brand's logos, colors & fonts",https://brandfetch.com
+340,SVGL,Logo & Branding,Tools,Free library of SVG brand logos,https://svgl.app
+341,Worldvectorlogo,Logo & Branding,Tools,Thousands of free brand logos in SVG,https://worldvectorlogo.com
+342,Hatchful (Shopify),Logo & Branding,Tools,Free logo maker,https://www.shopify.com/tools/logo-maker
+343,LogoMakr,Logo & Branding,Tools,Free in-browser logo creator,https://logomakr.com
+344,Looka (free preview),Logo & Branding,Tools,AI logo generator,https://looka.com
+345,Namelix,Logo & Branding,Tools,AI business name + logo generator,https://namelix.com
+346,Logo.com,Logo & Branding,Tools,Free logo maker & brand kit,https://logo.com
+347,TinyPNG,Image Optimization,Tools,Smart PNG/JPEG/WebP compression,https://tinypng.com
+348,Squoosh,Image Optimization,Tools,Google's in-browser image compressor,https://squoosh.app
+349,SVGOMG,Image Optimization,Tools,Optimize & clean up SVG files,https://jakearchibald.github.io/svgomg
+350,Compressor.io,Image Optimization,Tools,Strong lossy/lossless compression,https://compressor.io
+351,iLoveIMG,Image Optimization,Tools,"Bulk resize, compress & convert",https://www.iloveimg.com
+352,Recompressor,Image Optimization,Tools,Find the best compression settings,https://recompressor.com
+353,Image Resizer (Photopea),Image Optimization,Tools,Free resize & export,https://www.photopea.com
+354,Optimizilla,Image Optimization,Tools,Bulk image compressor with preview,https://imagecompressor.com
+355,ShortPixel,Image Optimization,Tools,Smart image & PDF compression,https://shortpixel.com
+356,Vectorizer (SVG),Image Optimization,Tools,Trace bitmaps into vector SVG,https://www.vectorizer.io
+357,WebAIM Contrast Checker,Accessibility,Tools,The standard color-contrast checker,https://webaim.org/resources/contrastchecker
+358,Stark,Accessibility,Tools,Accessibility toolkit for Figma & browsers,https://www.getstark.co
+359,Who Can Use,Accessibility,Tools,See how color combos affect vision types,https://www.whocanuse.com
+360,Accessible Colors,Accessibility,Tools,Find WCAG-compliant color pairs,https://accessible-colors.com
+361,Contrast Ratio (Lea Verou),Accessibility,Tools,Quick contrast calculator,https://contrast-ratio.com
+362,Colorblindly / Coblis,Accessibility,Tools,Color-blindness simulator,https://www.color-blindness.com/coblis-color-blindness-simulator
+363,A11y Project,Accessibility,Tools,Community-driven accessibility checklist & docs,https://www.a11yproject.com
+364,Able (Figma plugin),Accessibility,Tools,Contrast checking in Figma,https://www.figma.com/community/plugin/734693888346260052
+365,WAVE,Accessibility,Tools,Free web accessibility evaluation tool,https://wave.webaim.org
+366,axe DevTools,Accessibility,Tools,Industry-standard a11y testing engine,https://www.deque.com/axe
+367,Color Review,Accessibility,Tools,Check contrast as you tune colors,https://color.review
+368,Contrast Grid,Accessibility,Tools,Test many color combos at once,https://contrast-grid.eightshapes.com
+369,WhatFont,Browser Extensions,Tools,Identify fonts on any web page,https://www.chromeextensionkit.com
+370,ColorZilla,Browser Extensions,Tools,Eyedropper & color picker for the browser,https://www.colorzilla.com
+371,CSS Peeper,Browser Extensions,Tools,"Inspect styles, colors & assets of sites",https://csspeeper.com
+372,VisBug,Browser Extensions,Tools,Google's browser design debug toolbar,https://visbug.web.app
+373,Window Resizer,Browser Extensions,Tools,Test responsive breakpoints,https://chromewebstore.google.com
+374,Fonts Ninja,Browser Extensions,Tools,"Identify, try & buy fonts from any site",https://www.fonts.ninja
+375,WhatRuns,Browser Extensions,Tools,Discover the tech & fonts a site uses,https://www.whatruns.com
+376,Page Ruler / Dimensions,Browser Extensions,Tools,Measure elements on screen,https://felixniklas.com/dimensions
+377,Really Good Emails,Email Design,Email & Slides,The best email design gallery,https://reallygoodemails.com
+378,MJML,Email Design,Email & Slides,Open-source responsive email framework,https://mjml.io
+379,Stripo,Email Design,Email & Slides,Free email template builder,https://stripo.email
+380,BEE Free,Email Design,Email & Slides,Drag-and-drop email editor,https://beefree.io
+381,Litmus Community Templates,Email Design,Email & Slides,Free responsive email templates,https://www.litmus.com/community/templates
+382,Email Love,Email Design,Email & Slides,Curated email design inspiration,https://emaillove.com
+383,Slidesgo,Presentations,Email & Slides,Free Google Slides & PowerPoint templates,https://slidesgo.com
+384,SlidesCarnival,Presentations,Email & Slides,Free presentation templates,https://www.slidescarnival.com
+385,Pitch,Presentations,Email & Slides,Modern collaborative presentation tool (free),https://pitch.com
+386,Canva Presentations,Presentations,Email & Slides,Easy free presentation maker,https://www.canva.com/presentations
+387,Beautiful.ai,Presentations,Email & Slides,AI-assisted slide design (free trial),https://www.beautiful.ai
+388,Gamma,Presentations,Email & Slides,AI presentation & doc generator (free tier),https://gamma.app
+389,Dribbble,Design Inspiration,Inspiration & Learning,The largest designer showcase community,https://dribbble.com
+390,Behance,Design Inspiration,Inspiration & Learning,Adobe's portfolio & project platform,https://www.behance.net
+391,Awwwards,Design Inspiration,Inspiration & Learning,"The best in web design, awarded daily",https://www.awwwards.com
+392,Mobbin,Design Inspiration,Inspiration & Learning,Real mobile & web app UI patterns,https://mobbin.com
+393,Land-book,Design Inspiration,Inspiration & Learning,Landing page design gallery,https://land-book.com
+394,Godly,Design Inspiration,Inspiration & Learning,Astronomically good web design inspiration,https://godly.website
+395,SaaS Landing Page,Design Inspiration,Inspiration & Learning,SaaS landing page examples,https://saaslandingpage.com
+396,Refero,Design Inspiration,Inspiration & Learning,Searchable real product UI screenshots,https://refero.design
+397,Page Flows,Design Inspiration,Inspiration & Learning,Recorded real product user flows,https://pageflows.com
+398,Calltoidea,Design Inspiration,Inspiration & Learning,UI patterns sorted by element,https://www.calltoidea.com
+399,Httpster,Design Inspiration,Inspiration & Learning,Curated modern website inspiration,https://httpster.net
+400,Lapa Ninja,Design Inspiration,Inspiration & Learning,Best landing page designs,https://www.lapa.ninja
+401,UI Garage,Design Inspiration,Inspiration & Learning,Daily UI inspiration by pattern,https://uigarage.net
+402,Collect UI,Design Inspiration,Inspiration & Learning,Daily inspiration from Dribbble shots,https://collectui.com
+403,Nicelydone,Design Inspiration,Inspiration & Learning,SaaS & web app screenshots library,https://nicelydone.club
+404,Screenlane,Design Inspiration,Inspiration & Learning,Latest mobile & web UI trends,https://screenlane.com
+405,One Page Love,Design Inspiration,Inspiration & Learning,The best one-page website designs,https://onepagelove.com
+406,SiteInspire,Design Inspiration,Inspiration & Learning,Curated web design showcase,https://www.siteinspire.com
+407,Landingfolio,Design Inspiration,Inspiration & Learning,Landing page inspiration & components,https://www.landingfolio.com
+408,Minimal Gallery,Design Inspiration,Inspiration & Learning,Beautifully minimal websites,https://minimal.gallery
+409,Footer Design,Design Inspiration,Inspiration & Learning,Inspiration just for footers,https://www.footer.design
+410,Navbar Gallery,Design Inspiration,Inspiration & Learning,Inspiration just for navbars,https://navbar.gallery
+411,Mobile Patterns,Design Inspiration,Inspiration & Learning,Mobile UI patterns by element,https://www.mobile-patterns.com
+412,Pttrns,Design Inspiration,Inspiration & Learning,Mobile design patterns library,https://pttrns.com
+413,UI Sources,Design Inspiration,Inspiration & Learning,Real app flows & interactions,https://www.uisources.com
+414,Dark Mode Design,Design Inspiration,Inspiration & Learning,Showcase of dark-mode websites,https://www.darkmodedesign.com
+415,Curated.design,Design Inspiration,Inspiration & Learning,Hand-picked web design inspiration,https://www.curated.design
+416,Smashing Magazine,Learning & Blogs,Inspiration & Learning,In-depth design & dev articles,https://www.smashingmagazine.com
+417,NN/g (Nielsen Norman),Learning & Blogs,Inspiration & Learning,The authority on UX research,https://www.nngroup.com/articles
+418,Laws of UX,Learning & Blogs,Inspiration & Learning,"Key UX principles, beautifully explained",https://lawsofux.com
+419,Refactoring UI,Learning & Blogs,Inspiration & Learning,Practical visual design tips for non-designers,https://www.refactoringui.com
+420,Learn UI Design (blog),Learning & Blogs,Inspiration & Learning,Tactical UI design articles,https://www.learnui.design/blog
+421,UX Collective,Learning & Blogs,Inspiration & Learning,One of the biggest design publications,https://uxdesign.cc
+422,Designer Hangout / UX Planet,Learning & Blogs,Inspiration & Learning,UX articles & community,https://uxplanet.org
+423,Checklist Design,Learning & Blogs,Inspiration & Learning,Best-practice checklists per UI element,https://www.checklist.design
+424,UI Patterns,Learning & Blogs,Inspiration & Learning,Catalog of UI design patterns,https://ui-patterns.com
+425,Goodpractices / Anthony Hobday,Learning & Blogs,Inspiration & Learning,Safe visual design rules,https://anthonyhobday.com/sideprojects/saferules
+426,Practical UI (book),Learning & Blogs,Inspiration & Learning,Rules & guidelines reference,https://www.practical-ui.com
+427,Growth.Design,Learning & Blogs,Inspiration & Learning,UX case studies as comics,https://growth.design/case-studies
+428,Interaction Design Foundation,Learning & Blogs,Inspiration & Learning,"Affordable, in-depth UX courses & free articles",https://www.interaction-design.org
+429,Hack Design,Learning & Blogs,Inspiration & Learning,Free design course delivered by email,https://hackdesign.org
+430,UX Tools,Learning & Blogs,Inspiration & Learning,Tool guides & annual design-tool surveys,https://uxtools.co
+431,Built for Mars,Learning & Blogs,Inspiration & Learning,Deep real-world UX teardowns,https://builtformars.com
+432,Roadmap.sh (UX),Learning & Blogs,Inspiration & Learning,Community learning roadmaps,https://roadmap.sh
+433,Design+Code,Learning & Blogs,Inspiration & Learning,Design & code video courses (free intros),https://designcode.io
+434,Sidebar,Newsletters,Inspiration & Learning,"5 best design links, daily",https://sidebar.io
+435,UX Design Weekly,Newsletters,Inspiration & Learning,Curated UX links weekly,https://uxdesignweekly.com
+436,Dense Discovery,Newsletters,Inspiration & Learning,Thoughtful design & tech newsletter,https://www.densediscovery.com
+437,Designer News,Newsletters,Inspiration & Learning,Community design news,https://www.designernews.co
+438,Case Study Club,Newsletters,Inspiration & Learning,Curated UX case studies,https://www.casestudy.club
+439,Femke's Design Newsletter,Newsletters,Inspiration & Learning,Design career & craft,https://www.femkesvs.com
+440,The Futur,Podcasts & YouTube,Inspiration & Learning,Design business & creative career,https://www.youtube.com/@thefutur
+441,Flux Academy,Podcasts & YouTube,Inspiration & Learning,Web design & freelancing,https://www.youtube.com/@FluxAcademy
+442,DesignCourse,Podcasts & YouTube,Inspiration & Learning,UI/UX & front-end tutorials,https://www.youtube.com/@DesignCourse
+443,AJ&Smart,Podcasts & YouTube,Inspiration & Learning,Design sprints & product design,https://www.youtube.com/@AJSmart
+444,Honest UX Talks,Podcasts & YouTube,Inspiration & Learning,Candid UX career conversations,https://honestuxtalks.com
+445,Design Better Podcast,Podcasts & YouTube,Inspiration & Learning,Conversations with design leaders,https://www.designbetter.co/podcast
+446,Layout (Relay FM),Podcasts & YouTube,Inspiration & Learning,Design craft & career talk,https://www.relay.fm/layout
