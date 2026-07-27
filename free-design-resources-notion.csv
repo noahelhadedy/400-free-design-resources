@@ -212,235 +212,236 @@
 211,Brandcolors,Color Tools,Color & Typography,Official colors of popular brands,https://brandcolors.net
 212,Material Palette,Color Tools,Color & Typography,Generate Material color schemes,https://www.materialpalette.com
 213,Palettte App,Color Tools,Color & Typography,Edit & refine color systems,https://palettte.app
-214,uiGradients,Gradients,Color & Typography,Beautiful ready-to-use CSS gradients,https://uigradients.com
-215,Gradient Hunt,Gradients,Color & Typography,Community gradient collection,https://gradienthunt.com
-216,CSS Gradient,Gradients,Color & Typography,Free gradient generator,https://cssgradient.io
-217,Mesh Gradients (Meshgradient),Gradients,Color & Typography,Generate mesh gradients,https://meshgradient.com
-218,Grabient,Gradients,Color & Typography,Simple gradient picker with code,https://www.grabient.com
-219,WebGradients,Gradients,Color & Typography,180 free linear gradients,https://webgradients.com
-220,Mesher,Gradients,Color & Typography,Mesh gradient generator with code export,https://csshero.org/mesher
-221,Gradient Magic,Gradients,Color & Typography,Advanced & animated CSS gradients,https://www.gradientmagic.com
-222,Coolhue,Gradients,Color & Typography,Curated gradient hues with code,https://webkul.github.io/coolhue
-223,Gradients.app,Gradients,Color & Typography,Generate & customize CSS gradients,https://www.gradients.app
-224,Mesh Gradient (in),Gradients,Color & Typography,Free mesh gradient generator,https://meshgradient.in
-225,BGJar Gradients,Gradients,Color & Typography,Gradient & SVG background tool,https://bgjar.com
-226,CSS Hero Mesher,Gradients,Color & Typography,Mesh gradient generator with export,https://csshero.org/mesher
-227,Fontjoy,Typography Tools,Color & Typography,AI font pairing generator,https://fontjoy.com
-228,Type Scale,Typography Tools,Color & Typography,Visual type scale calculator,https://typescale.com
-229,Fontpair,Typography Tools,Color & Typography,Curated Google Font pairings,https://www.fontpair.co
-230,Typewolf,Typography Tools,Color & Typography,Type inspiration & font recommendations,https://www.typewolf.com
-231,Modular Scale,Typography Tools,Color & Typography,Calculate modular type scales,https://www.modularscale.com
-232,Golden Ratio Typography,Typography Tools,Color & Typography,Optimize font size & line height,https://grtcalculator.com
-233,Fonts In Use,Typography Tools,Color & Typography,Real-world typography examples,https://fontsinuse.com
-234,Wordmark.it,Typography Tools,Color & Typography,Preview your text in all installed fonts,https://wordmark.it
-235,Capsize,Typography Tools,Color & Typography,Trim typography whitespace precisely,https://seek-oss.github.io/capsize
-236,Archetype (Fontsmith),Typography Tools,Color & Typography,Build & preview type systems,https://archetypeapp.com
-237,Utopia,Typography Tools,Color & Typography,Fluid responsive type & space scales,https://utopia.fyi
-238,Fluid Type Scale,Typography Tools,Color & Typography,Generate clamp()-based fluid type,https://www.fluid-type-scale.com
-239,Typetester,Typography Tools,Color & Typography,Compare fonts side by side,https://www.typetester.org
-240,Beautiful Web Type,Typography Tools,Color & Typography,Showcase of the best Google Fonts,https://beautifulwebtype.com
-241,DjectStudio,UI Kits & Design Files,UI & Components,Premium & free UI kits and design templates,https://djectstudio.com/store
-242,Figma Community,UI Kits & Design Files,UI & Components,"Thousands of free UI kits, templates & plugins",https://www.figma.com/community
-243,Untitled UI (Free),UI Kits & Design Files,UI & Components,Free starter of the popular Figma UI kit,https://www.untitledui.com
-244,Material Design Kit,UI Kits & Design Files,UI & Components,Google's official design kit & components,https://m3.material.io
-245,Apple Design Resources,UI Kits & Design Files,UI & Components,Official iOS/macOS UI kits,https://developer.apple.com/design/resources
-246,Tailwind UI Components,UI Kits & Design Files,UI & Components,Component patterns (free preview + open Tailwind),https://tailwindcss.com/plus
-247,Flowbite,UI Kits & Design Files,UI & Components,Open-source Tailwind UI components,https://flowbite.com
-248,shadcn/ui,UI Kits & Design Files,UI & Components,"Free, copy-paste React component library",https://ui.shadcn.com
-249,Open UI Kit Collection,UI Kits & Design Files,UI & Components,Browse community UI kits,https://www.figma.com/community/search?resource_type=files&q=ui%20kit
-250,Preline UI,UI Kits & Design Files,UI & Components,Free open-source Tailwind UI components,https://preline.co
-251,DaisyUI,UI Kits & Design Files,UI & Components,Free Tailwind CSS component library,https://daisyui.com
-252,Pawly / Vault / Sable (UI8),UI Kits & Design Files,UI & Components,"Premium kits marketplace (paid, with free freebies)",https://ui8.net
-253,Setproduct,UI Kits & Design Files,UI & Components,Free & premium Figma design systems,https://www.setproduct.com
-254,Radix UI,UI Kits & Design Files,UI & Components,"Unstyled, accessible React primitives",https://www.radix-ui.com
-255,Headless UI,UI Kits & Design Files,UI & Components,Unstyled accessible components for Tailwind,https://headlessui.com
-256,Mantine,UI Kits & Design Files,UI & Components,120+ free React components & hooks,https://mantine.dev
-257,Chakra UI,UI Kits & Design Files,UI & Components,Accessible React component library,https://chakra-ui.com
-258,HeroUI,UI Kits & Design Files,UI & Components,Modern React UI library (ex-NextUI),https://www.heroui.com
-259,Hyper UI,UI Kits & Design Files,UI & Components,Free open-source Tailwind components,https://www.hyperui.dev
-260,Meraki UI,UI Kits & Design Files,UI & Components,"Free Tailwind components, RTL-ready",https://merakiui.com
-261,Float UI,UI Kits & Design Files,UI & Components,Free modern Tailwind UI blocks,https://floatui.com
-262,HTML5 UP,UI Kits & Design Files,UI & Components,Free responsive HTML site templates,https://html5up.net
-263,Start Bootstrap,UI Kits & Design Files,UI & Components,Free Bootstrap themes & templates,https://startbootstrap.com
-264,Cruip,UI Kits & Design Files,UI & Components,Free Tailwind landing-page templates,https://cruip.com
-265,Wicked Blocks,UI Kits & Design Files,UI & Components,100+ free Tailwind blocks,https://wickedblocks.dev
-266,Material Design 3,Design Systems (References),UI & Components,Google's flagship design system,https://m3.material.io
-267,Apple HIG,Design Systems (References),UI & Components,Apple's Human Interface Guidelines,https://developer.apple.com/design/human-interface-guidelines
-268,Shopify Polaris,Design Systems (References),UI & Components,Mature commerce design system,https://polaris.shopify.com
-269,Atlassian Design,Design Systems (References),UI & Components,Comprehensive product DS,https://atlassian.design
-270,IBM Carbon,Design Systems (References),UI & Components,Open-source enterprise design system,https://carbondesignsystem.com
-271,Adobe Spectrum,Design Systems (References),UI & Components,Adobe's design language,https://spectrum.adobe.com
-272,Primer (GitHub),Design Systems (References),UI & Components,GitHub's design system,https://primer.style
-273,Base Web (Uber),Design Systems (References),UI & Components,Uber's React-based DS,https://baseweb.design
-274,Ant Design,Design Systems (References),UI & Components,Popular enterprise React UI system,https://ant.design
-275,Design Systems Repo,Design Systems (References),UI & Components,A directory of public design systems,https://designsystemsrepo.com
-276,Component Gallery,Design Systems (References),UI & Components,Compare components across design systems,https://component.gallery
-277,CSS Gradient,CSS & UI Generators,UI & Components,Gradient code generator,https://cssgradient.io
-278,Neumorphism.io,CSS & UI Generators,UI & Components,Soft-UI shadow generator,https://neumorphism.io
-279,Glassmorphism,CSS & UI Generators,UI & Components,Generate frosted-glass CSS,https://glassmorphism.com
-280,Shadows Brumm,CSS & UI Generators,UI & Components,"Smooth, layered box-shadow generator",https://shadows.brumm.af
-281,Box Shadow (CSS Scan),CSS & UI Generators,UI & Components,Ready-made shadow library,https://getcssscan.com/css-box-shadow-examples
-282,Animista,CSS & UI Generators,UI & Components,CSS animation generator,https://animista.net
-283,Glassgenerator / Hype4,CSS & UI Generators,UI & Components,Glassmorphism CSS tool,https://hype4.academy/tools/glassmorphism-generator
-284,Clippy,CSS & UI Generators,UI & Components,CSS clip-path maker,https://bennettfeely.com/clippy
-285,Smooth Shadow,CSS & UI Generators,UI & Components,Beautiful layered shadows,https://shadows.brumm.af
-286,CSS Grid Generator,CSS & UI Generators,UI & Components,Visually build CSS grids,https://cssgrid-generator.netlify.app
-287,Fancy Border Radius,CSS & UI Generators,UI & Components,Organic shapes via border-radius,https://9elements.github.io/fancy-border-radius
-288,Get CSS Scan Buttons,CSS & UI Generators,UI & Components,100+ copy-paste CSS buttons,https://getcssscan.com/css-buttons-examples
-289,Animista,CSS & UI Generators,UI & Components,On-demand CSS animation library,https://animista.net
-290,Easings.net,CSS & UI Generators,UI & Components,Reference for CSS easing functions,https://easings.net
-291,Cubic-Bezier,CSS & UI Generators,UI & Components,Build & visualize bezier easing curves,https://cubic-bezier.com
-292,Keyframes.app,CSS & UI Generators,UI & Components,Visually build CSS keyframe animations,https://keyframes.app
-293,CSS Loaders,CSS & UI Generators,UI & Components,600+ pure-CSS loading spinners,https://css-loaders.com
-294,Ray.so,CSS & UI Generators,UI & Components,Turn code into beautiful images,https://ray.so
-295,Carbon,CSS & UI Generators,UI & Components,Create & share images of source code,https://carbon.now.sh
-296,Hover.css,CSS & UI Generators,UI & Components,Collection of CSS hover effects,https://ianlunn.github.io/Hover
-297,Figma,Design & Prototyping Tools,Tools,Industry-standard collaborative design tool (free plan),https://www.figma.com
-298,Penpot,Design & Prototyping Tools,Tools,Open-source Figma alternative,https://penpot.app
-299,Framer,Design & Prototyping Tools,Tools,Design & publish real websites (free tier),https://www.framer.com
-300,Photopea,Design & Prototyping Tools,Tools,Free in-browser Photoshop alternative,https://www.photopea.com
-301,Canva,Design & Prototyping Tools,Tools,Easy design tool (generous free tier),https://www.canva.com
-302,Excalidraw,Design & Prototyping Tools,Tools,Free hand-drawn-style whiteboard,https://excalidraw.com
-303,tldraw,Design & Prototyping Tools,Tools,Free collaborative infinite canvas,https://www.tldraw.com
-304,Akiflow / Whimsical,Design & Prototyping Tools,Tools,"Flowcharts, wireframes & docs (free tier)",https://whimsical.com
-305,Lunacy,Design & Prototyping Tools,Tools,Free design app with built-in assets,https://icons8.com/lunacy
-306,Gravit / Vectr,Design & Prototyping Tools,Tools,Free vector graphics editor,https://vectr.com
-307,Spline,Design & Prototyping Tools,Tools,Free 3D design & prototyping,https://spline.design
-308,Inkscape,Design & Prototyping Tools,Tools,Free open-source vector editor,https://inkscape.org
-309,GIMP,Design & Prototyping Tools,Tools,Free open-source image editor,https://www.gimp.org
-310,Krita,Design & Prototyping Tools,Tools,Free painting & illustration software,https://krita.org
-311,Pixlr,Design & Prototyping Tools,Tools,Free in-browser photo editor,https://pixlr.com
-312,Method Draw,Design & Prototyping Tools,Tools,Simple free in-browser SVG editor,https://editor.method.ac
-313,Excalidraw,Wireframing,Tools,Fast low-fidelity sketches,https://excalidraw.com
-314,Whimsical,Wireframing,Tools,"Wireframes, flowcharts & mind maps",https://whimsical.com
-315,Wireframe.cc,Wireframing,Tools,"Minimal, distraction-free wireframing",https://wireframe.cc
-316,Figma Wireframe Kit,Wireframing,Tools,Free community wireframe kits,https://www.figma.com/community/file/wireframe
-317,Balsamiq (alternatives),Wireframing,Tools,Classic rapid wireframing (paid; many free kits mimic it),https://balsamiq.com
-318,Cleverflow / Mockflow,Wireframing,Tools,Free wireframing & UI planning,https://mockflow.com
-319,Figma AI / Make,AI Design Tools,Tools,Native AI features inside Figma,https://www.figma.com
-320,Galileo AI,AI Design Tools,Tools,Text-to-UI design generation,https://www.usegalileo.ai
-321,Uizard,AI Design Tools,Tools,"AI wireframes, mockups & UI (free tier)",https://uizard.io
-322,Khroma,AI Design Tools,Tools,AI color discovery,https://www.khroma.co
-323,Remove.bg,AI Design Tools,Tools,Instant AI background removal,https://www.remove.bg
-324,Cleanup.pictures,AI Design Tools,Tools,Remove objects from images free,https://cleanup.pictures
-325,Upscayl,AI Design Tools,Tools,Free open-source AI image upscaler,https://upscayl.org
-326,Recraft,AI Design Tools,Tools,AI vector & icon generation (free tier),https://www.recraft.ai
-327,Designer.microsoft,AI Design Tools,Tools,Free AI graphic design from Microsoft,https://designer.microsoft.com
-328,Magician for Figma,AI Design Tools,Tools,AI design plugin for Figma,https://magician.design
-329,Vance AI / Pixelcut,AI Design Tools,Tools,AI image editing & upscaling,https://www.pixelcut.ai
-330,Ideogram,AI Design Tools,Tools,AI image gen with great text rendering,https://ideogram.ai
-331,Krea,AI Design Tools,Tools,Real-time AI image generation (free tier),https://www.krea.ai
-332,Clipdrop,AI Design Tools,Tools,"AI image tools — cleanup, relight, upscale",https://clipdrop.co
-333,Photoroom,AI Design Tools,Tools,AI product photo & background editor,https://www.photoroom.com
-334,Vectorizer.ai,AI Design Tools,Tools,Convert raster images to SVG with AI,https://vectorizer.ai
-335,Playground,AI Design Tools,Tools,Free AI image creation tool,https://playground.com
-336,Leonardo.ai,AI Design Tools,Tools,AI art & asset generation (free tier),https://leonardo.ai
-337,LogoSearch,Logo & Branding,Tools,Search real-world logos for inspiration,https://logosear.ch
-338,Brandfetch,Logo & Branding,Tools,"Find any brand's logos, colors & fonts",https://brandfetch.com
-339,SVGL,Logo & Branding,Tools,Free library of SVG brand logos,https://svgl.app
-340,Worldvectorlogo,Logo & Branding,Tools,Thousands of free brand logos in SVG,https://worldvectorlogo.com
-341,Hatchful (Shopify),Logo & Branding,Tools,Free logo maker,https://www.shopify.com/tools/logo-maker
-342,LogoMakr,Logo & Branding,Tools,Free in-browser logo creator,https://logomakr.com
-343,Looka (free preview),Logo & Branding,Tools,AI logo generator,https://looka.com
-344,Namelix,Logo & Branding,Tools,AI business name + logo generator,https://namelix.com
-345,Logo.com,Logo & Branding,Tools,Free logo maker & brand kit,https://logo.com
-346,TinyPNG,Image Optimization,Tools,Smart PNG/JPEG/WebP compression,https://tinypng.com
-347,Squoosh,Image Optimization,Tools,Google's in-browser image compressor,https://squoosh.app
-348,SVGOMG,Image Optimization,Tools,Optimize & clean up SVG files,https://jakearchibald.github.io/svgomg
-349,Compressor.io,Image Optimization,Tools,Strong lossy/lossless compression,https://compressor.io
-350,iLoveIMG,Image Optimization,Tools,"Bulk resize, compress & convert",https://www.iloveimg.com
-351,Recompressor,Image Optimization,Tools,Find the best compression settings,https://recompressor.com
-352,Image Resizer (Photopea),Image Optimization,Tools,Free resize & export,https://www.photopea.com
-353,Optimizilla,Image Optimization,Tools,Bulk image compressor with preview,https://imagecompressor.com
-354,ShortPixel,Image Optimization,Tools,Smart image & PDF compression,https://shortpixel.com
-355,Vectorizer (SVG),Image Optimization,Tools,Trace bitmaps into vector SVG,https://www.vectorizer.io
-356,WebAIM Contrast Checker,Accessibility,Tools,The standard color-contrast checker,https://webaim.org/resources/contrastchecker
-357,Stark,Accessibility,Tools,Accessibility toolkit for Figma & browsers,https://www.getstark.co
-358,Who Can Use,Accessibility,Tools,See how color combos affect vision types,https://www.whocanuse.com
-359,Accessible Colors,Accessibility,Tools,Find WCAG-compliant color pairs,https://accessible-colors.com
-360,Contrast Ratio (Lea Verou),Accessibility,Tools,Quick contrast calculator,https://contrast-ratio.com
-361,Colorblindly / Coblis,Accessibility,Tools,Color-blindness simulator,https://www.color-blindness.com/coblis-color-blindness-simulator
-362,A11y Project,Accessibility,Tools,Community-driven accessibility checklist & docs,https://www.a11yproject.com
-363,Able (Figma plugin),Accessibility,Tools,Contrast checking in Figma,https://www.figma.com/community/plugin/734693888346260052
-364,WAVE,Accessibility,Tools,Free web accessibility evaluation tool,https://wave.webaim.org
-365,axe DevTools,Accessibility,Tools,Industry-standard a11y testing engine,https://www.deque.com/axe
-366,Color Review,Accessibility,Tools,Check contrast as you tune colors,https://color.review
-367,Contrast Grid,Accessibility,Tools,Test many color combos at once,https://contrast-grid.eightshapes.com
-368,WhatFont,Browser Extensions,Tools,Identify fonts on any web page,https://www.chromeextensionkit.com
-369,ColorZilla,Browser Extensions,Tools,Eyedropper & color picker for the browser,https://www.colorzilla.com
-370,CSS Peeper,Browser Extensions,Tools,"Inspect styles, colors & assets of sites",https://csspeeper.com
-371,VisBug,Browser Extensions,Tools,Google's browser design debug toolbar,https://visbug.web.app
-372,Window Resizer,Browser Extensions,Tools,Test responsive breakpoints,https://chromewebstore.google.com
-373,Fonts Ninja,Browser Extensions,Tools,"Identify, try & buy fonts from any site",https://www.fonts.ninja
-374,WhatRuns,Browser Extensions,Tools,Discover the tech & fonts a site uses,https://www.whatruns.com
-375,Page Ruler / Dimensions,Browser Extensions,Tools,Measure elements on screen,https://felixniklas.com/dimensions
-376,Really Good Emails,Email Design,Email & Slides,The best email design gallery,https://reallygoodemails.com
-377,MJML,Email Design,Email & Slides,Open-source responsive email framework,https://mjml.io
-378,Stripo,Email Design,Email & Slides,Free email template builder,https://stripo.email
-379,BEE Free,Email Design,Email & Slides,Drag-and-drop email editor,https://beefree.io
-380,Litmus Community Templates,Email Design,Email & Slides,Free responsive email templates,https://www.litmus.com/community/templates
-381,Email Love,Email Design,Email & Slides,Curated email design inspiration,https://emaillove.com
-382,Slidesgo,Presentations,Email & Slides,Free Google Slides & PowerPoint templates,https://slidesgo.com
-383,SlidesCarnival,Presentations,Email & Slides,Free presentation templates,https://www.slidescarnival.com
-384,Pitch,Presentations,Email & Slides,Modern collaborative presentation tool (free),https://pitch.com
-385,Canva Presentations,Presentations,Email & Slides,Easy free presentation maker,https://www.canva.com/presentations
-386,Beautiful.ai,Presentations,Email & Slides,AI-assisted slide design (free trial),https://www.beautiful.ai
-387,Gamma,Presentations,Email & Slides,AI presentation & doc generator (free tier),https://gamma.app
-388,Dribbble,Design Inspiration,Inspiration & Learning,The largest designer showcase community,https://dribbble.com
-389,Behance,Design Inspiration,Inspiration & Learning,Adobe's portfolio & project platform,https://www.behance.net
-390,Awwwards,Design Inspiration,Inspiration & Learning,"The best in web design, awarded daily",https://www.awwwards.com
-391,Mobbin,Design Inspiration,Inspiration & Learning,Real mobile & web app UI patterns,https://mobbin.com
-392,Land-book,Design Inspiration,Inspiration & Learning,Landing page design gallery,https://land-book.com
-393,Godly,Design Inspiration,Inspiration & Learning,Astronomically good web design inspiration,https://godly.website
-394,SaaS Landing Page,Design Inspiration,Inspiration & Learning,SaaS landing page examples,https://saaslandingpage.com
-395,Refero,Design Inspiration,Inspiration & Learning,Searchable real product UI screenshots,https://refero.design
-396,Page Flows,Design Inspiration,Inspiration & Learning,Recorded real product user flows,https://pageflows.com
-397,Calltoidea,Design Inspiration,Inspiration & Learning,UI patterns sorted by element,https://www.calltoidea.com
-398,Httpster,Design Inspiration,Inspiration & Learning,Curated modern website inspiration,https://httpster.net
-399,Lapa Ninja,Design Inspiration,Inspiration & Learning,Best landing page designs,https://www.lapa.ninja
-400,UI Garage,Design Inspiration,Inspiration & Learning,Daily UI inspiration by pattern,https://uigarage.net
-401,Collect UI,Design Inspiration,Inspiration & Learning,Daily inspiration from Dribbble shots,https://collectui.com
-402,Nicelydone,Design Inspiration,Inspiration & Learning,SaaS & web app screenshots library,https://nicelydone.club
-403,Screenlane,Design Inspiration,Inspiration & Learning,Latest mobile & web UI trends,https://screenlane.com
-404,One Page Love,Design Inspiration,Inspiration & Learning,The best one-page website designs,https://onepagelove.com
-405,SiteInspire,Design Inspiration,Inspiration & Learning,Curated web design showcase,https://www.siteinspire.com
-406,Landingfolio,Design Inspiration,Inspiration & Learning,Landing page inspiration & components,https://www.landingfolio.com
-407,Minimal Gallery,Design Inspiration,Inspiration & Learning,Beautifully minimal websites,https://minimal.gallery
-408,Footer Design,Design Inspiration,Inspiration & Learning,Inspiration just for footers,https://www.footer.design
-409,Navbar Gallery,Design Inspiration,Inspiration & Learning,Inspiration just for navbars,https://navbar.gallery
-410,Mobile Patterns,Design Inspiration,Inspiration & Learning,Mobile UI patterns by element,https://www.mobile-patterns.com
-411,Pttrns,Design Inspiration,Inspiration & Learning,Mobile design patterns library,https://pttrns.com
-412,UI Sources,Design Inspiration,Inspiration & Learning,Real app flows & interactions,https://www.uisources.com
-413,Dark Mode Design,Design Inspiration,Inspiration & Learning,Showcase of dark-mode websites,https://www.darkmodedesign.com
-414,Curated.design,Design Inspiration,Inspiration & Learning,Hand-picked web design inspiration,https://www.curated.design
-415,Smashing Magazine,Learning & Blogs,Inspiration & Learning,In-depth design & dev articles,https://www.smashingmagazine.com
-416,NN/g (Nielsen Norman),Learning & Blogs,Inspiration & Learning,The authority on UX research,https://www.nngroup.com/articles
-417,Laws of UX,Learning & Blogs,Inspiration & Learning,"Key UX principles, beautifully explained",https://lawsofux.com
-418,Refactoring UI,Learning & Blogs,Inspiration & Learning,Practical visual design tips for non-designers,https://www.refactoringui.com
-419,Learn UI Design (blog),Learning & Blogs,Inspiration & Learning,Tactical UI design articles,https://www.learnui.design/blog
-420,UX Collective,Learning & Blogs,Inspiration & Learning,One of the biggest design publications,https://uxdesign.cc
-421,Designer Hangout / UX Planet,Learning & Blogs,Inspiration & Learning,UX articles & community,https://uxplanet.org
-422,Checklist Design,Learning & Blogs,Inspiration & Learning,Best-practice checklists per UI element,https://www.checklist.design
-423,UI Patterns,Learning & Blogs,Inspiration & Learning,Catalog of UI design patterns,https://ui-patterns.com
-424,Goodpractices / Anthony Hobday,Learning & Blogs,Inspiration & Learning,Safe visual design rules,https://anthonyhobday.com/sideprojects/saferules
-425,Practical UI (book),Learning & Blogs,Inspiration & Learning,Rules & guidelines reference,https://www.practical-ui.com
-426,Growth.Design,Learning & Blogs,Inspiration & Learning,UX case studies as comics,https://growth.design/case-studies
-427,Interaction Design Foundation,Learning & Blogs,Inspiration & Learning,"Affordable, in-depth UX courses & free articles",https://www.interaction-design.org
-428,Hack Design,Learning & Blogs,Inspiration & Learning,Free design course delivered by email,https://hackdesign.org
-429,UX Tools,Learning & Blogs,Inspiration & Learning,Tool guides & annual design-tool surveys,https://uxtools.co
-430,Built for Mars,Learning & Blogs,Inspiration & Learning,Deep real-world UX teardowns,https://builtformars.com
-431,Roadmap.sh (UX),Learning & Blogs,Inspiration & Learning,Community learning roadmaps,https://roadmap.sh
-432,Design+Code,Learning & Blogs,Inspiration & Learning,Design & code video courses (free intros),https://designcode.io
-433,Sidebar,Newsletters,Inspiration & Learning,"5 best design links, daily",https://sidebar.io
-434,UX Design Weekly,Newsletters,Inspiration & Learning,Curated UX links weekly,https://uxdesignweekly.com
-435,Dense Discovery,Newsletters,Inspiration & Learning,Thoughtful design & tech newsletter,https://www.densediscovery.com
-436,Designer News,Newsletters,Inspiration & Learning,Community design news,https://www.designernews.co
-437,Case Study Club,Newsletters,Inspiration & Learning,Curated UX case studies,https://www.casestudy.club
-438,Femke's Design Newsletter,Newsletters,Inspiration & Learning,Design career & craft,https://www.femkesvs.com
-439,The Futur,Podcasts & YouTube,Inspiration & Learning,Design business & creative career,https://www.youtube.com/@thefutur
-440,Flux Academy,Podcasts & YouTube,Inspiration & Learning,Web design & freelancing,https://www.youtube.com/@FluxAcademy
-441,DesignCourse,Podcasts & YouTube,Inspiration & Learning,UI/UX & front-end tutorials,https://www.youtube.com/@DesignCourse
-442,AJ&Smart,Podcasts & YouTube,Inspiration & Learning,Design sprints & product design,https://www.youtube.com/@AJSmart
-443,Honest UX Talks,Podcasts & YouTube,Inspiration & Learning,Candid UX career conversations,https://honestuxtalks.com
-444,Design Better Podcast,Podcasts & YouTube,Inspiration & Learning,Conversations with design leaders,https://www.designbetter.co/podcast
-445,Layout (Relay FM),Podcasts & YouTube,Inspiration & Learning,Design craft & career talk,https://www.relay.fm/layout
+214,Chromo,Color Tools,Color & Typography,"Free color intelligence tool – formats, palettes, contrast, exports & more",https://www.readytools.co/chromo
+215,uiGradients,Gradients,Color & Typography,Beautiful ready-to-use CSS gradients,https://uigradients.com
+216,Gradient Hunt,Gradients,Color & Typography,Community gradient collection,https://gradienthunt.com
+217,CSS Gradient,Gradients,Color & Typography,Free gradient generator,https://cssgradient.io
+218,Mesh Gradients (Meshgradient),Gradients,Color & Typography,Generate mesh gradients,https://meshgradient.com
+219,Grabient,Gradients,Color & Typography,Simple gradient picker with code,https://www.grabient.com
+220,WebGradients,Gradients,Color & Typography,180 free linear gradients,https://webgradients.com
+221,Mesher,Gradients,Color & Typography,Mesh gradient generator with code export,https://csshero.org/mesher
+222,Gradient Magic,Gradients,Color & Typography,Advanced & animated CSS gradients,https://www.gradientmagic.com
+223,Coolhue,Gradients,Color & Typography,Curated gradient hues with code,https://webkul.github.io/coolhue
+224,Gradients.app,Gradients,Color & Typography,Generate & customize CSS gradients,https://www.gradients.app
+225,Mesh Gradient (in),Gradients,Color & Typography,Free mesh gradient generator,https://meshgradient.in
+226,BGJar Gradients,Gradients,Color & Typography,Gradient & SVG background tool,https://bgjar.com
+227,CSS Hero Mesher,Gradients,Color & Typography,Mesh gradient generator with export,https://csshero.org/mesher
+228,Fontjoy,Typography Tools,Color & Typography,AI font pairing generator,https://fontjoy.com
+229,Type Scale,Typography Tools,Color & Typography,Visual type scale calculator,https://typescale.com
+230,Fontpair,Typography Tools,Color & Typography,Curated Google Font pairings,https://www.fontpair.co
+231,Typewolf,Typography Tools,Color & Typography,Type inspiration & font recommendations,https://www.typewolf.com
+232,Modular Scale,Typography Tools,Color & Typography,Calculate modular type scales,https://www.modularscale.com
+233,Golden Ratio Typography,Typography Tools,Color & Typography,Optimize font size & line height,https://grtcalculator.com
+234,Fonts In Use,Typography Tools,Color & Typography,Real-world typography examples,https://fontsinuse.com
+235,Wordmark.it,Typography Tools,Color & Typography,Preview your text in all installed fonts,https://wordmark.it
+236,Capsize,Typography Tools,Color & Typography,Trim typography whitespace precisely,https://seek-oss.github.io/capsize
+237,Archetype (Fontsmith),Typography Tools,Color & Typography,Build & preview type systems,https://archetypeapp.com
+238,Utopia,Typography Tools,Color & Typography,Fluid responsive type & space scales,https://utopia.fyi
+239,Fluid Type Scale,Typography Tools,Color & Typography,Generate clamp()-based fluid type,https://www.fluid-type-scale.com
+240,Typetester,Typography Tools,Color & Typography,Compare fonts side by side,https://www.typetester.org
+241,Beautiful Web Type,Typography Tools,Color & Typography,Showcase of the best Google Fonts,https://beautifulwebtype.com
+242,DjectStudio,UI Kits & Design Files,UI & Components,Premium & free UI kits and design templates,https://djectstudio.com/store
+243,Figma Community,UI Kits & Design Files,UI & Components,"Thousands of free UI kits, templates & plugins",https://www.figma.com/community
+244,Untitled UI (Free),UI Kits & Design Files,UI & Components,Free starter of the popular Figma UI kit,https://www.untitledui.com
+245,Material Design Kit,UI Kits & Design Files,UI & Components,Google's official design kit & components,https://m3.material.io
+246,Apple Design Resources,UI Kits & Design Files,UI & Components,Official iOS/macOS UI kits,https://developer.apple.com/design/resources
+247,Tailwind UI Components,UI Kits & Design Files,UI & Components,Component patterns (free preview + open Tailwind),https://tailwindcss.com/plus
+248,Flowbite,UI Kits & Design Files,UI & Components,Open-source Tailwind UI components,https://flowbite.com
+249,shadcn/ui,UI Kits & Design Files,UI & Components,"Free, copy-paste React component library",https://ui.shadcn.com
+250,Open UI Kit Collection,UI Kits & Design Files,UI & Components,Browse community UI kits,https://www.figma.com/community/search?resource_type=files&q=ui%20kit
+251,Preline UI,UI Kits & Design Files,UI & Components,Free open-source Tailwind UI components,https://preline.co
+252,DaisyUI,UI Kits & Design Files,UI & Components,Free Tailwind CSS component library,https://daisyui.com
+253,Pawly / Vault / Sable (UI8),UI Kits & Design Files,UI & Components,"Premium kits marketplace (paid, with free freebies)",https://ui8.net
+254,Setproduct,UI Kits & Design Files,UI & Components,Free & premium Figma design systems,https://www.setproduct.com
+255,Radix UI,UI Kits & Design Files,UI & Components,"Unstyled, accessible React primitives",https://www.radix-ui.com
+256,Headless UI,UI Kits & Design Files,UI & Components,Unstyled accessible components for Tailwind,https://headlessui.com
+257,Mantine,UI Kits & Design Files,UI & Components,120+ free React components & hooks,https://mantine.dev
+258,Chakra UI,UI Kits & Design Files,UI & Components,Accessible React component library,https://chakra-ui.com
+259,HeroUI,UI Kits & Design Files,UI & Components,Modern React UI library (ex-NextUI),https://www.heroui.com
+260,Hyper UI,UI Kits & Design Files,UI & Components,Free open-source Tailwind components,https://www.hyperui.dev
+261,Meraki UI,UI Kits & Design Files,UI & Components,"Free Tailwind components, RTL-ready",https://merakiui.com
+262,Float UI,UI Kits & Design Files,UI & Components,Free modern Tailwind UI blocks,https://floatui.com
+263,HTML5 UP,UI Kits & Design Files,UI & Components,Free responsive HTML site templates,https://html5up.net
+264,Start Bootstrap,UI Kits & Design Files,UI & Components,Free Bootstrap themes & templates,https://startbootstrap.com
+265,Cruip,UI Kits & Design Files,UI & Components,Free Tailwind landing-page templates,https://cruip.com
+266,Wicked Blocks,UI Kits & Design Files,UI & Components,100+ free Tailwind blocks,https://wickedblocks.dev
+267,Material Design 3,Design Systems (References),UI & Components,Google's flagship design system,https://m3.material.io
+268,Apple HIG,Design Systems (References),UI & Components,Apple's Human Interface Guidelines,https://developer.apple.com/design/human-interface-guidelines
+269,Shopify Polaris,Design Systems (References),UI & Components,Mature commerce design system,https://polaris.shopify.com
+270,Atlassian Design,Design Systems (References),UI & Components,Comprehensive product DS,https://atlassian.design
+271,IBM Carbon,Design Systems (References),UI & Components,Open-source enterprise design system,https://carbondesignsystem.com
+272,Adobe Spectrum,Design Systems (References),UI & Components,Adobe's design language,https://spectrum.adobe.com
+273,Primer (GitHub),Design Systems (References),UI & Components,GitHub's design system,https://primer.style
+274,Base Web (Uber),Design Systems (References),UI & Components,Uber's React-based DS,https://baseweb.design
+275,Ant Design,Design Systems (References),UI & Components,Popular enterprise React UI system,https://ant.design
+276,Design Systems Repo,Design Systems (References),UI & Components,A directory of public design systems,https://designsystemsrepo.com
+277,Component Gallery,Design Systems (References),UI & Components,Compare components across design systems,https://component.gallery
+278,CSS Gradient,CSS & UI Generators,UI & Components,Gradient code generator,https://cssgradient.io
+279,Neumorphism.io,CSS & UI Generators,UI & Components,Soft-UI shadow generator,https://neumorphism.io
+280,Glassmorphism,CSS & UI Generators,UI & Components,Generate frosted-glass CSS,https://glassmorphism.com
+281,Shadows Brumm,CSS & UI Generators,UI & Components,"Smooth, layered box-shadow generator",https://shadows.brumm.af
+282,Box Shadow (CSS Scan),CSS & UI Generators,UI & Components,Ready-made shadow library,https://getcssscan.com/css-box-shadow-examples
+283,Animista,CSS & UI Generators,UI & Components,CSS animation generator,https://animista.net
+284,Glassgenerator / Hype4,CSS & UI Generators,UI & Components,Glassmorphism CSS tool,https://hype4.academy/tools/glassmorphism-generator
+285,Clippy,CSS & UI Generators,UI & Components,CSS clip-path maker,https://bennettfeely.com/clippy
+286,Smooth Shadow,CSS & UI Generators,UI & Components,Beautiful layered shadows,https://shadows.brumm.af
+287,CSS Grid Generator,CSS & UI Generators,UI & Components,Visually build CSS grids,https://cssgrid-generator.netlify.app
+288,Fancy Border Radius,CSS & UI Generators,UI & Components,Organic shapes via border-radius,https://9elements.github.io/fancy-border-radius
+289,Get CSS Scan Buttons,CSS & UI Generators,UI & Components,100+ copy-paste CSS buttons,https://getcssscan.com/css-buttons-examples
+290,Animista,CSS & UI Generators,UI & Components,On-demand CSS animation library,https://animista.net
+291,Easings.net,CSS & UI Generators,UI & Components,Reference for CSS easing functions,https://easings.net
+292,Cubic-Bezier,CSS & UI Generators,UI & Components,Build & visualize bezier easing curves,https://cubic-bezier.com
+293,Keyframes.app,CSS & UI Generators,UI & Components,Visually build CSS keyframe animations,https://keyframes.app
+294,CSS Loaders,CSS & UI Generators,UI & Components,600+ pure-CSS loading spinners,https://css-loaders.com
+295,Ray.so,CSS & UI Generators,UI & Components,Turn code into beautiful images,https://ray.so
+296,Carbon,CSS & UI Generators,UI & Components,Create & share images of source code,https://carbon.now.sh
+297,Hover.css,CSS & UI Generators,UI & Components,Collection of CSS hover effects,https://ianlunn.github.io/Hover
+298,Figma,Design & Prototyping Tools,Tools,Industry-standard collaborative design tool (free plan),https://www.figma.com
+299,Penpot,Design & Prototyping Tools,Tools,Open-source Figma alternative,https://penpot.app
+300,Framer,Design & Prototyping Tools,Tools,Design & publish real websites (free tier),https://www.framer.com
+301,Photopea,Design & Prototyping Tools,Tools,Free in-browser Photoshop alternative,https://www.photopea.com
+302,Canva,Design & Prototyping Tools,Tools,Easy design tool (generous free tier),https://www.canva.com
+303,Excalidraw,Design & Prototyping Tools,Tools,Free hand-drawn-style whiteboard,https://excalidraw.com
+304,tldraw,Design & Prototyping Tools,Tools,Free collaborative infinite canvas,https://www.tldraw.com
+305,Akiflow / Whimsical,Design & Prototyping Tools,Tools,"Flowcharts, wireframes & docs (free tier)",https://whimsical.com
+306,Lunacy,Design & Prototyping Tools,Tools,Free design app with built-in assets,https://icons8.com/lunacy
+307,Gravit / Vectr,Design & Prototyping Tools,Tools,Free vector graphics editor,https://vectr.com
+308,Spline,Design & Prototyping Tools,Tools,Free 3D design & prototyping,https://spline.design
+309,Inkscape,Design & Prototyping Tools,Tools,Free open-source vector editor,https://inkscape.org
+310,GIMP,Design & Prototyping Tools,Tools,Free open-source image editor,https://www.gimp.org
+311,Krita,Design & Prototyping Tools,Tools,Free painting & illustration software,https://krita.org
+312,Pixlr,Design & Prototyping Tools,Tools,Free in-browser photo editor,https://pixlr.com
+313,Method Draw,Design & Prototyping Tools,Tools,Simple free in-browser SVG editor,https://editor.method.ac
+314,Excalidraw,Wireframing,Tools,Fast low-fidelity sketches,https://excalidraw.com
+315,Whimsical,Wireframing,Tools,"Wireframes, flowcharts & mind maps",https://whimsical.com
+316,Wireframe.cc,Wireframing,Tools,"Minimal, distraction-free wireframing",https://wireframe.cc
+317,Figma Wireframe Kit,Wireframing,Tools,Free community wireframe kits,https://www.figma.com/community/file/wireframe
+318,Balsamiq (alternatives),Wireframing,Tools,Classic rapid wireframing (paid; many free kits mimic it),https://balsamiq.com
+319,Cleverflow / Mockflow,Wireframing,Tools,Free wireframing & UI planning,https://mockflow.com
+320,Figma AI / Make,AI Design Tools,Tools,Native AI features inside Figma,https://www.figma.com
+321,Galileo AI,AI Design Tools,Tools,Text-to-UI design generation,https://www.usegalileo.ai
+322,Uizard,AI Design Tools,Tools,"AI wireframes, mockups & UI (free tier)",https://uizard.io
+323,Khroma,AI Design Tools,Tools,AI color discovery,https://www.khroma.co
+324,Remove.bg,AI Design Tools,Tools,Instant AI background removal,https://www.remove.bg
+325,Cleanup.pictures,AI Design Tools,Tools,Remove objects from images free,https://cleanup.pictures
+326,Upscayl,AI Design Tools,Tools,Free open-source AI image upscaler,https://upscayl.org
+327,Recraft,AI Design Tools,Tools,AI vector & icon generation (free tier),https://www.recraft.ai
+328,Designer.microsoft,AI Design Tools,Tools,Free AI graphic design from Microsoft,https://designer.microsoft.com
+329,Magician for Figma,AI Design Tools,Tools,AI design plugin for Figma,https://magician.design
+330,Vance AI / Pixelcut,AI Design Tools,Tools,AI image editing & upscaling,https://www.pixelcut.ai
+331,Ideogram,AI Design Tools,Tools,AI image gen with great text rendering,https://ideogram.ai
+332,Krea,AI Design Tools,Tools,Real-time AI image generation (free tier),https://www.krea.ai
+333,Clipdrop,AI Design Tools,Tools,"AI image tools — cleanup, relight, upscale",https://clipdrop.co
+334,Photoroom,AI Design Tools,Tools,AI product photo & background editor,https://www.photoroom.com
+335,Vectorizer.ai,AI Design Tools,Tools,Convert raster images to SVG with AI,https://vectorizer.ai
+336,Playground,AI Design Tools,Tools,Free AI image creation tool,https://playground.com
+337,Leonardo.ai,AI Design Tools,Tools,AI art & asset generation (free tier),https://leonardo.ai
+338,LogoSearch,Logo & Branding,Tools,Search real-world logos for inspiration,https://logosear.ch
+339,Brandfetch,Logo & Branding,Tools,"Find any brand's logos, colors & fonts",https://brandfetch.com
+340,SVGL,Logo & Branding,Tools,Free library of SVG brand logos,https://svgl.app
+341,Worldvectorlogo,Logo & Branding,Tools,Thousands of free brand logos in SVG,https://worldvectorlogo.com
+342,Hatchful (Shopify),Logo & Branding,Tools,Free logo maker,https://www.shopify.com/tools/logo-maker
+343,LogoMakr,Logo & Branding,Tools,Free in-browser logo creator,https://logomakr.com
+344,Looka (free preview),Logo & Branding,Tools,AI logo generator,https://looka.com
+345,Namelix,Logo & Branding,Tools,AI business name + logo generator,https://namelix.com
+346,Logo.com,Logo & Branding,Tools,Free logo maker & brand kit,https://logo.com
+347,TinyPNG,Image Optimization,Tools,Smart PNG/JPEG/WebP compression,https://tinypng.com
+348,Squoosh,Image Optimization,Tools,Google's in-browser image compressor,https://squoosh.app
+349,SVGOMG,Image Optimization,Tools,Optimize & clean up SVG files,https://jakearchibald.github.io/svgomg
+350,Compressor.io,Image Optimization,Tools,Strong lossy/lossless compression,https://compressor.io
+351,iLoveIMG,Image Optimization,Tools,"Bulk resize, compress & convert",https://www.iloveimg.com
+352,Recompressor,Image Optimization,Tools,Find the best compression settings,https://recompressor.com
+353,Image Resizer (Photopea),Image Optimization,Tools,Free resize & export,https://www.photopea.com
+354,Optimizilla,Image Optimization,Tools,Bulk image compressor with preview,https://imagecompressor.com
+355,ShortPixel,Image Optimization,Tools,Smart image & PDF compression,https://shortpixel.com
+356,Vectorizer (SVG),Image Optimization,Tools,Trace bitmaps into vector SVG,https://www.vectorizer.io
+357,WebAIM Contrast Checker,Accessibility,Tools,The standard color-contrast checker,https://webaim.org/resources/contrastchecker
+358,Stark,Accessibility,Tools,Accessibility toolkit for Figma & browsers,https://www.getstark.co
+359,Who Can Use,Accessibility,Tools,See how color combos affect vision types,https://www.whocanuse.com
+360,Accessible Colors,Accessibility,Tools,Find WCAG-compliant color pairs,https://accessible-colors.com
+361,Contrast Ratio (Lea Verou),Accessibility,Tools,Quick contrast calculator,https://contrast-ratio.com
+362,Colorblindly / Coblis,Accessibility,Tools,Color-blindness simulator,https://www.color-blindness.com/coblis-color-blindness-simulator
+363,A11y Project,Accessibility,Tools,Community-driven accessibility checklist & docs,https://www.a11yproject.com
+364,Able (Figma plugin),Accessibility,Tools,Contrast checking in Figma,https://www.figma.com/community/plugin/734693888346260052
+365,WAVE,Accessibility,Tools,Free web accessibility evaluation tool,https://wave.webaim.org
+366,axe DevTools,Accessibility,Tools,Industry-standard a11y testing engine,https://www.deque.com/axe
+367,Color Review,Accessibility,Tools,Check contrast as you tune colors,https://color.review
+368,Contrast Grid,Accessibility,Tools,Test many color combos at once,https://contrast-grid.eightshapes.com
+369,WhatFont,Browser Extensions,Tools,Identify fonts on any web page,https://www.chromeextensionkit.com
+370,ColorZilla,Browser Extensions,Tools,Eyedropper & color picker for the browser,https://www.colorzilla.com
+371,CSS Peeper,Browser Extensions,Tools,"Inspect styles, colors & assets of sites",https://csspeeper.com
+372,VisBug,Browser Extensions,Tools,Google's browser design debug toolbar,https://visbug.web.app
+373,Window Resizer,Browser Extensions,Tools,Test responsive breakpoints,https://chromewebstore.google.com
+374,Fonts Ninja,Browser Extensions,Tools,"Identify, try & buy fonts from any site",https://www.fonts.ninja
+375,WhatRuns,Browser Extensions,Tools,Discover the tech & fonts a site uses,https://www.whatruns.com
+376,Page Ruler / Dimensions,Browser Extensions,Tools,Measure elements on screen,https://felixniklas.com/dimensions
+377,Really Good Emails,Email Design,Email & Slides,The best email design gallery,https://reallygoodemails.com
+378,MJML,Email Design,Email & Slides,Open-source responsive email framework,https://mjml.io
+379,Stripo,Email Design,Email & Slides,Free email template builder,https://stripo.email
+380,BEE Free,Email Design,Email & Slides,Drag-and-drop email editor,https://beefree.io
+381,Litmus Community Templates,Email Design,Email & Slides,Free responsive email templates,https://www.litmus.com/community/templates
+382,Email Love,Email Design,Email & Slides,Curated email design inspiration,https://emaillove.com
+383,Slidesgo,Presentations,Email & Slides,Free Google Slides & PowerPoint templates,https://slidesgo.com
+384,SlidesCarnival,Presentations,Email & Slides,Free presentation templates,https://www.slidescarnival.com
+385,Pitch,Presentations,Email & Slides,Modern collaborative presentation tool (free),https://pitch.com
+386,Canva Presentations,Presentations,Email & Slides,Easy free presentation maker,https://www.canva.com/presentations
+387,Beautiful.ai,Presentations,Email & Slides,AI-assisted slide design (free trial),https://www.beautiful.ai
+388,Gamma,Presentations,Email & Slides,AI presentation & doc generator (free tier),https://gamma.app
+389,Dribbble,Design Inspiration,Inspiration & Learning,The largest designer showcase community,https://dribbble.com
+390,Behance,Design Inspiration,Inspiration & Learning,Adobe's portfolio & project platform,https://www.behance.net
+391,Awwwards,Design Inspiration,Inspiration & Learning,"The best in web design, awarded daily",https://www.awwwards.com
+392,Mobbin,Design Inspiration,Inspiration & Learning,Real mobile & web app UI patterns,https://mobbin.com
+393,Land-book,Design Inspiration,Inspiration & Learning,Landing page design gallery,https://land-book.com
+394,Godly,Design Inspiration,Inspiration & Learning,Astronomically good web design inspiration,https://godly.website
+395,SaaS Landing Page,Design Inspiration,Inspiration & Learning,SaaS landing page examples,https://saaslandingpage.com
+396,Refero,Design Inspiration,Inspiration & Learning,Searchable real product UI screenshots,https://refero.design
+397,Page Flows,Design Inspiration,Inspiration & Learning,Recorded real product user flows,https://pageflows.com
+398,Calltoidea,Design Inspiration,Inspiration & Learning,UI patterns sorted by element,https://www.calltoidea.com
+399,Httpster,Design Inspiration,Inspiration & Learning,Curated modern website inspiration,https://httpster.net
+400,Lapa Ninja,Design Inspiration,Inspiration & Learning,Best landing page designs,https://www.lapa.ninja
+401,UI Garage,Design Inspiration,Inspiration & Learning,Daily UI inspiration by pattern,https://uigarage.net
+402,Collect UI,Design Inspiration,Inspiration & Learning,Daily inspiration from Dribbble shots,https://collectui.com
+403,Nicelydone,Design Inspiration,Inspiration & Learning,SaaS & web app screenshots library,https://nicelydone.club
+404,Screenlane,Design Inspiration,Inspiration & Learning,Latest mobile & web UI trends,https://screenlane.com
+405,One Page Love,Design Inspiration,Inspiration & Learning,The best one-page website designs,https://onepagelove.com
+406,SiteInspire,Design Inspiration,Inspiration & Learning,Curated web design showcase,https://www.siteinspire.com
+407,Landingfolio,Design Inspiration,Inspiration & Learning,Landing page inspiration & components,https://www.landingfolio.com
+408,Minimal Gallery,Design Inspiration,Inspiration & Learning,Beautifully minimal websites,https://minimal.gallery
+409,Footer Design,Design Inspiration,Inspiration & Learning,Inspiration just for footers,https://www.footer.design
+410,Navbar Gallery,Design Inspiration,Inspiration & Learning,Inspiration just for navbars,https://navbar.gallery
+411,Mobile Patterns,Design Inspiration,Inspiration & Learning,Mobile UI patterns by element,https://www.mobile-patterns.com
+412,Pttrns,Design Inspiration,Inspiration & Learning,Mobile design patterns library,https://pttrns.com
+413,UI Sources,Design Inspiration,Inspiration & Learning,Real app flows & interactions,https://www.uisources.com
+414,Dark Mode Design,Design Inspiration,Inspiration & Learning,Showcase of dark-mode websites,https://www.darkmodedesign.com
+415,Curated.design,Design Inspiration,Inspiration & Learning,Hand-picked web design inspiration,https://www.curated.design
+416,Smashing Magazine,Learning & Blogs,Inspiration & Learning,In-depth design & dev articles,https://www.smashingmagazine.com
+417,NN/g (Nielsen Norman),Learning & Blogs,Inspiration & Learning,The authority on UX research,https://www.nngroup.com/articles
+418,Laws of UX,Learning & Blogs,Inspiration & Learning,"Key UX principles, beautifully explained",https://lawsofux.com
+419,Refactoring UI,Learning & Blogs,Inspiration & Learning,Practical visual design tips for non-designers,https://www.refactoringui.com
+420,Learn UI Design (blog),Learning & Blogs,Inspiration & Learning,Tactical UI design articles,https://www.learnui.design/blog
+421,UX Collective,Learning & Blogs,Inspiration & Learning,One of the biggest design publications,https://uxdesign.cc
+422,Designer Hangout / UX Planet,Learning & Blogs,Inspiration & Learning,UX articles & community,https://uxplanet.org
+423,Checklist Design,Learning & Blogs,Inspiration & Learning,Best-practice checklists per UI element,https://www.checklist.design
+424,UI Patterns,Learning & Blogs,Inspiration & Learning,Catalog of UI design patterns,https://ui-patterns.com
+425,Goodpractices / Anthony Hobday,Learning & Blogs,Inspiration & Learning,Safe visual design rules,https://anthonyhobday.com/sideprojects/saferules
+426,Practical UI (book),Learning & Blogs,Inspiration & Learning,Rules & guidelines reference,https://www.practical-ui.com
+427,Growth.Design,Learning & Blogs,Inspiration & Learning,UX case studies as comics,https://growth.design/case-studies
+428,Interaction Design Foundation,Learning & Blogs,Inspiration & Learning,"Affordable, in-depth UX courses & free articles",https://www.interaction-design.org
+429,Hack Design,Learning & Blogs,Inspiration & Learning,Free design course delivered by email,https://hackdesign.org
+430,UX Tools,Learning & Blogs,Inspiration & Learning,Tool guides & annual design-tool surveys,https://uxtools.co
+431,Built for Mars,Learning & Blogs,Inspiration & Learning,Deep real-world UX teardowns,https://builtformars.com
+432,Roadmap.sh (UX),Learning & Blogs,Inspiration & Learning,Community learning roadmaps,https://roadmap.sh
+433,Design+Code,Learning & Blogs,Inspiration & Learning,Design & code video courses (free intros),https://designcode.io
+434,Sidebar,Newsletters,Inspiration & Learning,"5 best design links, daily",https://sidebar.io
+435,UX Design Weekly,Newsletters,Inspiration & Learning,Curated UX links weekly,https://uxdesignweekly.com
+436,Dense Discovery,Newsletters,Inspiration & Learning,Thoughtful design & tech newsletter,https://www.densediscovery.com
+437,Designer News,Newsletters,Inspiration & Learning,Community design news,https://www.designernews.co
+438,Case Study Club,Newsletters,Inspiration & Learning,Curated UX case studies,https://www.casestudy.club
+439,Femke's Design Newsletter,Newsletters,Inspiration & Learning,Design career & craft,https://www.femkesvs.com
+440,The Futur,Podcasts & YouTube,Inspiration & Learning,Design business & creative career,https://www.youtube.com/@thefutur
+441,Flux Academy,Podcasts & YouTube,Inspiration & Learning,Web design & freelancing,https://www.youtube.com/@FluxAcademy
+442,DesignCourse,Podcasts & YouTube,Inspiration & Learning,UI/UX & front-end tutorials,https://www.youtube.com/@DesignCourse
+443,AJ&Smart,Podcasts & YouTube,Inspiration & Learning,Design sprints & product design,https://www.youtube.com/@AJSmart
+444,Honest UX Talks,Podcasts & YouTube,Inspiration & Learning,Candid UX career conversations,https://honestuxtalks.com
+445,Design Better Podcast,Podcasts & YouTube,Inspiration & Learning,Conversations with design leaders,https://www.designbetter.co/podcast
+446,Layout (Relay FM),Podcasts & YouTube,Inspiration & Learning,Design craft & career talk,https://www.relay.fm/layout
