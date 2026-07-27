@@ -7,7 +7,7 @@
 
 A curated list of 400+ free design resources — fonts, icons, illustrations, mockups, UI kits, color tools, stock media, and more — grouped so you can find what you need fast.
 
-**Total:** 445 resources across 30 categories in 7 groups.
+**Total:** 446 resources across 30 categories in 7 groups.
 
 The full list is also available as [`free-design-resources-notion.csv`](free-design-resources-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -34,7 +34,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 **Color & Typography**
 
-- [Color Tools](#color-tools) — 22
+- [Color Tools](#color-tools) — 23
 - [Gradients](#gradients) — 13
 - [Typography Tools](#typography-tools) — 14
 
@@ -344,43 +344,44 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 211 | [Brandcolors](https://brandcolors.net) | Official colors of popular brands |
 | 212 | [Material Palette](https://www.materialpalette.com) | Generate Material color schemes |
 | 213 | [Palettte App](https://palettte.app) | Edit & refine color systems |
+| 214 | [Chromo (ReadyTools)](https://www.readytools.co/chromo) | Free color intelligence tool – formats, palettes, contrast, exports & more |
 
 ### Gradients
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 214 | [uiGradients](https://uigradients.com) | Beautiful ready-to-use CSS gradients |
-| 215 | [Gradient Hunt](https://gradienthunt.com) | Community gradient collection |
-| 216 | [CSS Gradient](https://cssgradient.io) | Free gradient generator |
-| 217 | [Mesh Gradients (Meshgradient)](https://meshgradient.com) | Generate mesh gradients |
-| 218 | [Grabient](https://www.grabient.com) | Simple gradient picker with code |
-| 219 | [WebGradients](https://webgradients.com) | 180 free linear gradients |
-| 220 | [Mesher](https://csshero.org/mesher) | Mesh gradient generator with code export |
-| 221 | [Gradient Magic](https://www.gradientmagic.com) | Advanced & animated CSS gradients |
-| 222 | [Coolhue](https://webkul.github.io/coolhue) | Curated gradient hues with code |
-| 223 | [Gradients.app](https://www.gradients.app) | Generate & customize CSS gradients |
-| 224 | [Mesh Gradient (in)](https://meshgradient.in) | Free mesh gradient generator |
-| 225 | [BGJar Gradients](https://bgjar.com) | Gradient & SVG background tool |
-| 226 | [CSS Hero Mesher](https://csshero.org/mesher) | Mesh gradient generator with export |
+| 215 | [uiGradients](https://uigradients.com) | Beautiful ready-to-use CSS gradients |
+| 216 | [Gradient Hunt](https://gradienthunt.com) | Community gradient collection |
+| 217 | [CSS Gradient](https://cssgradient.io) | Free gradient generator |
+| 218 | [Mesh Gradients (Meshgradient)](https://meshgradient.com) | Generate mesh gradients |
+| 219 | [Grabient](https://www.grabient.com) | Simple gradient picker with code |
+| 220 | [WebGradients](https://webgradients.com) | 180 free linear gradients |
+| 221 | [Mesher](https://csshero.org/mesher) | Mesh gradient generator with code export |
+| 222 | [Gradient Magic](https://www.gradientmagic.com) | Advanced & animated CSS gradients |
+| 223 | [Coolhue](https://webkul.github.io/coolhue) | Curated gradient hues with code |
+| 224 | [Gradients.app](https://www.gradients.app) | Generate & customize CSS gradients |
+| 225 | [Mesh Gradient (in)](https://meshgradient.in) | Free mesh gradient generator |
+| 226 | [BGJar Gradients](https://bgjar.com) | Gradient & SVG background tool |
+| 227 | [CSS Hero Mesher](https://csshero.org/mesher) | Mesh gradient generator with export |
 
 ### Typography Tools
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 227 | [Fontjoy](https://fontjoy.com) | AI font pairing generator |
-| 228 | [Type Scale](https://typescale.com) | Visual type scale calculator |
-| 229 | [Fontpair](https://www.fontpair.co) | Curated Google Font pairings |
-| 230 | [Typewolf](https://www.typewolf.com) | Type inspiration & font recommendations |
-| 231 | [Modular Scale](https://www.modularscale.com) | Calculate modular type scales |
-| 232 | [Golden Ratio Typography](https://grtcalculator.com) | Optimize font size & line height |
-| 233 | [Fonts In Use](https://fontsinuse.com) | Real-world typography examples |
-| 234 | [Wordmark.it](https://wordmark.it) | Preview your text in all installed fonts |
-| 235 | [Capsize](https://seek-oss.github.io/capsize) | Trim typography whitespace precisely |
-| 236 | [Archetype (Fontsmith)](https://archetypeapp.com) | Build & preview type systems |
-| 237 | [Utopia](https://utopia.fyi) | Fluid responsive type & space scales |
-| 238 | [Fluid Type Scale](https://www.fluid-type-scale.com) | Generate clamp()-based fluid type |
-| 239 | [Typetester](https://www.typetester.org) | Compare fonts side by side |
-| 240 | [Beautiful Web Type](https://beautifulwebtype.com) | Showcase of the best Google Fonts |
+| 228 | [Fontjoy](https://fontjoy.com) | AI font pairing generator |
+| 229 | [Type Scale](https://typescale.com) | Visual type scale calculator |
+| 230 | [Fontpair](https://www.fontpair.co) | Curated Google Font pairings |
+| 231 | [Typewolf](https://www.typewolf.com) | Type inspiration & font recommendations |
+| 232 | [Modular Scale](https://www.modularscale.com) | Calculate modular type scales |
+| 233 | [Golden Ratio Typography](https://grtcalculator.com) | Optimize font size & line height |
+| 234 | [Fonts In Use](https://fontsinuse.com) | Real-world typography examples |
+| 235 | [Wordmark.it](https://wordmark.it) | Preview your text in all installed fonts |
+| 236 | [Capsize](https://seek-oss.github.io/capsize) | Trim typography whitespace precisely |
+| 237 | [Archetype (Fontsmith)](https://archetypeapp.com) | Build & preview type systems |
+| 238 | [Utopia](https://utopia.fyi) | Fluid responsive type & space scales |
+| 239 | [Fluid Type Scale](https://www.fluid-type-scale.com) | Generate clamp()-based fluid type |
+| 240 | [Typetester](https://www.typetester.org) | Compare fonts side by side |
+| 241 | [Beautiful Web Type](https://beautifulwebtype.com) | Showcase of the best Google Fonts |
 
 ## UI & Components
 
@@ -388,72 +389,72 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 241 | [DjectStudio](https://djectstudio.com/store) | Premium & free UI kits and design templates |
-| 242 | [Figma Community](https://www.figma.com/community) | Thousands of free UI kits, templates & plugins |
-| 243 | [Untitled UI (Free)](https://www.untitledui.com) | Free starter of the popular Figma UI kit |
-| 244 | [Material Design Kit](https://m3.material.io) | Google's official design kit & components |
-| 245 | [Apple Design Resources](https://developer.apple.com/design/resources) | Official iOS/macOS UI kits |
-| 246 | [Tailwind UI Components](https://tailwindcss.com/plus) | Component patterns (free preview + open Tailwind) |
-| 247 | [Flowbite](https://flowbite.com) | Open-source Tailwind UI components |
-| 248 | [shadcn/ui](https://ui.shadcn.com) | Free, copy-paste React component library |
-| 249 | [Open UI Kit Collection](https://www.figma.com/community/search?resource_type=files&q=ui%20kit) | Browse community UI kits |
-| 250 | [Preline UI](https://preline.co) | Free open-source Tailwind UI components |
-| 251 | [DaisyUI](https://daisyui.com) | Free Tailwind CSS component library |
-| 252 | [Pawly / Vault / Sable (UI8)](https://ui8.net) | Premium kits marketplace (paid, with free freebies) |
-| 253 | [Setproduct](https://www.setproduct.com) | Free & premium Figma design systems |
-| 254 | [Radix UI](https://www.radix-ui.com) | Unstyled, accessible React primitives |
-| 255 | [Headless UI](https://headlessui.com) | Unstyled accessible components for Tailwind |
-| 256 | [Mantine](https://mantine.dev) | 120+ free React components & hooks |
-| 257 | [Chakra UI](https://chakra-ui.com) | Accessible React component library |
-| 258 | [HeroUI](https://www.heroui.com) | Modern React UI library (ex-NextUI) |
-| 259 | [Hyper UI](https://www.hyperui.dev) | Free open-source Tailwind components |
-| 260 | [Meraki UI](https://merakiui.com) | Free Tailwind components, RTL-ready |
-| 261 | [Float UI](https://floatui.com) | Free modern Tailwind UI blocks |
-| 262 | [HTML5 UP](https://html5up.net) | Free responsive HTML site templates |
-| 263 | [Start Bootstrap](https://startbootstrap.com) | Free Bootstrap themes & templates |
-| 264 | [Cruip](https://cruip.com) | Free Tailwind landing-page templates |
-| 265 | [Wicked Blocks](https://wickedblocks.dev) | 100+ free Tailwind blocks |
+| 242 | [DjectStudio](https://djectstudio.com/store) | Premium & free UI kits and design templates |
+| 243 | [Figma Community](https://www.figma.com/community) | Thousands of free UI kits, templates & plugins |
+| 244 | [Untitled UI (Free)](https://www.untitledui.com) | Free starter of the popular Figma UI kit |
+| 245 | [Material Design Kit](https://m3.material.io) | Google's official design kit & components |
+| 246 | [Apple Design Resources](https://developer.apple.com/design/resources) | Official iOS/macOS UI kits |
+| 247 | [Tailwind UI Components](https://tailwindcss.com/plus) | Component patterns (free preview + open Tailwind) |
+| 248 | [Flowbite](https://flowbite.com) | Open-source Tailwind UI components |
+| 249 | [shadcn/ui](https://ui.shadcn.com) | Free, copy-paste React component library |
+| 250 | [Open UI Kit Collection](https://www.figma.com/community/search?resource_type=files&q=ui%20kit) | Browse community UI kits |
+| 251 | [Preline UI](https://preline.co) | Free open-source Tailwind UI components |
+| 252 | [DaisyUI](https://daisyui.com) | Free Tailwind CSS component library |
+| 253 | [Pawly / Vault / Sable (UI8)](https://ui8.net) | Premium kits marketplace (paid, with free freebies) |
+| 254 | [Setproduct](https://www.setproduct.com) | Free & premium Figma design systems |
+| 255 | [Radix UI](https://www.radix-ui.com) | Unstyled, accessible React primitives |
+| 256 | [Headless UI](https://headlessui.com) | Unstyled accessible components for Tailwind |
+| 257 | [Mantine](https://mantine.dev) | 120+ free React components & hooks |
+| 258 | [Chakra UI](https://chakra-ui.com) | Accessible React component library |
+| 259 | [HeroUI](https://www.heroui.com) | Modern React UI library (ex-NextUI) |
+| 260 | [Hyper UI](https://www.hyperui.dev) | Free open-source Tailwind components |
+| 261 | [Meraki UI](https://merakiui.com) | Free Tailwind components, RTL-ready |
+| 262 | [Float UI](https://floatui.com) | Free modern Tailwind UI blocks |
+| 263 | [HTML5 UP](https://html5up.net) | Free responsive HTML site templates |
+| 264 | [Start Bootstrap](https://startbootstrap.com) | Free Bootstrap themes & templates |
+| 265 | [Cruip](https://cruip.com) | Free Tailwind landing-page templates |
+| 266 | [Wicked Blocks](https://wickedblocks.dev) | 100+ free Tailwind blocks |
 
 ### Design Systems (References)
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 266 | [Material Design 3](https://m3.material.io) | Google's flagship design system |
-| 267 | [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) | Apple's Human Interface Guidelines |
-| 268 | [Shopify Polaris](https://polaris.shopify.com) | Mature commerce design system |
-| 269 | [Atlassian Design](https://atlassian.design) | Comprehensive product DS |
-| 270 | [IBM Carbon](https://carbondesignsystem.com) | Open-source enterprise design system |
-| 271 | [Adobe Spectrum](https://spectrum.adobe.com) | Adobe's design language |
-| 272 | [Primer (GitHub)](https://primer.style) | GitHub's design system |
-| 273 | [Base Web (Uber)](https://baseweb.design) | Uber's React-based DS |
-| 274 | [Ant Design](https://ant.design) | Popular enterprise React UI system |
-| 275 | [Design Systems Repo](https://designsystemsrepo.com) | A directory of public design systems |
-| 276 | [Component Gallery](https://component.gallery) | Compare components across design systems |
+| 267 | [Material Design 3](https://m3.material.io) | Google's flagship design system |
+| 268 | [Apple HIG](https://developer.apple.com/design/human-interface-guidelines) | Apple's Human Interface Guidelines |
+| 269 | [Shopify Polaris](https://polaris.shopify.com) | Mature commerce design system |
+| 270 | [Atlassian Design](https://atlassian.design) | Comprehensive product DS |
+| 271 | [IBM Carbon](https://carbondesignsystem.com) | Open-source enterprise design system |
+| 272 | [Adobe Spectrum](https://spectrum.adobe.com) | Adobe's design language |
+| 273 | [Primer (GitHub)](https://primer.style) | GitHub's design system |
+| 274 | [Base Web (Uber)](https://baseweb.design) | Uber's React-based DS |
+| 275 | [Ant Design](https://ant.design) | Popular enterprise React UI system |
+| 276 | [Design Systems Repo](https://designsystemsrepo.com) | A directory of public design systems |
+| 277 | [Component Gallery](https://component.gallery) | Compare components across design systems |
 
 ### CSS & UI Generators
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 277 | [CSS Gradient](https://cssgradient.io) | Gradient code generator |
-| 278 | [Neumorphism.io](https://neumorphism.io) | Soft-UI shadow generator |
-| 279 | [Glassmorphism](https://glassmorphism.com) | Generate frosted-glass CSS |
-| 280 | [Shadows Brumm](https://shadows.brumm.af) | Smooth, layered box-shadow generator |
-| 281 | [Box Shadow (CSS Scan)](https://getcssscan.com/css-box-shadow-examples) | Ready-made shadow library |
-| 282 | [Animista](https://animista.net) | CSS animation generator |
-| 283 | [Glassgenerator / Hype4](https://hype4.academy/tools/glassmorphism-generator) | Glassmorphism CSS tool |
-| 284 | [Clippy](https://bennettfeely.com/clippy) | CSS clip-path maker |
-| 285 | [Smooth Shadow](https://shadows.brumm.af) | Beautiful layered shadows |
-| 286 | [CSS Grid Generator](https://cssgrid-generator.netlify.app) | Visually build CSS grids |
-| 287 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius) | Organic shapes via border-radius |
-| 288 | [Get CSS Scan Buttons](https://getcssscan.com/css-buttons-examples) | 100+ copy-paste CSS buttons |
-| 289 | [Animista](https://animista.net) | On-demand CSS animation library |
-| 290 | [Easings.net](https://easings.net) | Reference for CSS easing functions |
-| 291 | [Cubic-Bezier](https://cubic-bezier.com) | Build & visualize bezier easing curves |
-| 292 | [Keyframes.app](https://keyframes.app) | Visually build CSS keyframe animations |
-| 293 | [CSS Loaders](https://css-loaders.com) | 600+ pure-CSS loading spinners |
-| 294 | [Ray.so](https://ray.so) | Turn code into beautiful images |
-| 295 | [Carbon](https://carbon.now.sh) | Create & share images of source code |
-| 296 | [Hover.css](https://ianlunn.github.io/Hover) | Collection of CSS hover effects |
+| 278 | [CSS Gradient](https://cssgradient.io) | Gradient code generator |
+| 279 | [Neumorphism.io](https://neumorphism.io) | Soft-UI shadow generator |
+| 280 | [Glassmorphism](https://glassmorphism.com) | Generate frosted-glass CSS |
+| 281 | [Shadows Brumm](https://shadows.brumm.af) | Smooth, layered box-shadow generator |
+| 282 | [Box Shadow (CSS Scan)](https://getcssscan.com/css-box-shadow-examples) | Ready-made shadow library |
+| 283 | [Animista](https://animista.net) | CSS animation generator |
+| 284 | [Glassgenerator / Hype4](https://hype4.academy/tools/glassmorphism-generator) | Glassmorphism CSS tool |
+| 285 | [Clippy](https://bennettfeely.com/clippy) | CSS clip-path maker |
+| 286 | [Smooth Shadow](https://shadows.brumm.af) | Beautiful layered shadows |
+| 287 | [CSS Grid Generator](https://cssgrid-generator.netlify.app) | Visually build CSS grids |
+| 288 | [Fancy Border Radius](https://9elements.github.io/fancy-border-radius) | Organic shapes via border-radius |
+| 289 | [Get CSS Scan Buttons](https://getcssscan.com/css-buttons-examples) | 100+ copy-paste CSS buttons |
+| 290 | [Animista](https://animista.net) | On-demand CSS animation library |
+| 291 | [Easings.net](https://easings.net) | Reference for CSS easing functions |
+| 292 | [Cubic-Bezier](https://cubic-bezier.com) | Build & visualize bezier easing curves |
+| 293 | [Keyframes.app](https://keyframes.app) | Visually build CSS keyframe animations |
+| 294 | [CSS Loaders](https://css-loaders.com) | 600+ pure-CSS loading spinners |
+| 295 | [Ray.so](https://ray.so) | Turn code into beautiful images |
+| 296 | [Carbon](https://carbon.now.sh) | Create & share images of source code |
+| 297 | [Hover.css](https://ianlunn.github.io/Hover) | Collection of CSS hover effects |
 
 ## Tools
 
@@ -461,115 +462,115 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 297 | [Figma](https://www.figma.com) | Industry-standard collaborative design tool (free plan) |
-| 298 | [Penpot](https://penpot.app) | Open-source Figma alternative |
-| 299 | [Framer](https://www.framer.com) | Design & publish real websites (free tier) |
-| 300 | [Photopea](https://www.photopea.com) | Free in-browser Photoshop alternative |
-| 301 | [Canva](https://www.canva.com) | Easy design tool (generous free tier) |
-| 302 | [Excalidraw](https://excalidraw.com) | Free hand-drawn-style whiteboard |
-| 303 | [tldraw](https://www.tldraw.com) | Free collaborative infinite canvas |
-| 304 | [Akiflow / Whimsical](https://whimsical.com) | Flowcharts, wireframes & docs (free tier) |
-| 305 | [Lunacy](https://icons8.com/lunacy) | Free design app with built-in assets |
-| 306 | [Gravit / Vectr](https://vectr.com) | Free vector graphics editor |
-| 307 | [Spline](https://spline.design) | Free 3D design & prototyping |
-| 308 | [Inkscape](https://inkscape.org) | Free open-source vector editor |
-| 309 | [GIMP](https://www.gimp.org) | Free open-source image editor |
-| 310 | [Krita](https://krita.org) | Free painting & illustration software |
-| 311 | [Pixlr](https://pixlr.com) | Free in-browser photo editor |
-| 312 | [Method Draw](https://editor.method.ac) | Simple free in-browser SVG editor |
+| 298 | [Figma](https://www.figma.com) | Industry-standard collaborative design tool (free plan) |
+| 299 | [Penpot](https://penpot.app) | Open-source Figma alternative |
+| 300 | [Framer](https://www.framer.com) | Design & publish real websites (free tier) |
+| 301 | [Photopea](https://www.photopea.com) | Free in-browser Photoshop alternative |
+| 302 | [Canva](https://www.canva.com) | Easy design tool (generous free tier) |
+| 303 | [Excalidraw](https://excalidraw.com) | Free hand-drawn-style whiteboard |
+| 304 | [tldraw](https://www.tldraw.com) | Free collaborative infinite canvas |
+| 305 | [Akiflow / Whimsical](https://whimsical.com) | Flowcharts, wireframes & docs (free tier) |
+| 306 | [Lunacy](https://icons8.com/lunacy) | Free design app with built-in assets |
+| 307 | [Gravit / Vectr](https://vectr.com) | Free vector graphics editor |
+| 308 | [Spline](https://spline.design) | Free 3D design & prototyping |
+| 309 | [Inkscape](https://inkscape.org) | Free open-source vector editor |
+| 310 | [GIMP](https://www.gimp.org) | Free open-source image editor |
+| 311 | [Krita](https://krita.org) | Free painting & illustration software |
+| 312 | [Pixlr](https://pixlr.com) | Free in-browser photo editor |
+| 313 | [Method Draw](https://editor.method.ac) | Simple free in-browser SVG editor |
 
 ### Wireframing
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 313 | [Excalidraw](https://excalidraw.com) | Fast low-fidelity sketches |
-| 314 | [Whimsical](https://whimsical.com) | Wireframes, flowcharts & mind maps |
-| 315 | [Wireframe.cc](https://wireframe.cc) | Minimal, distraction-free wireframing |
-| 316 | [Figma Wireframe Kit](https://www.figma.com/community/file/wireframe) | Free community wireframe kits |
-| 317 | [Balsamiq (alternatives)](https://balsamiq.com) | Classic rapid wireframing (paid; many free kits mimic it) |
-| 318 | [Cleverflow / Mockflow](https://mockflow.com) | Free wireframing & UI planning |
+| 314 | [Excalidraw](https://excalidraw.com) | Fast low-fidelity sketches |
+| 315 | [Whimsical](https://whimsical.com) | Wireframes, flowcharts & mind maps |
+| 316 | [Wireframe.cc](https://wireframe.cc) | Minimal, distraction-free wireframing |
+| 317 | [Figma Wireframe Kit](https://www.figma.com/community/file/wireframe) | Free community wireframe kits |
+| 318 | [Balsamiq (alternatives)](https://balsamiq.com) | Classic rapid wireframing (paid; many free kits mimic it) |
+| 319 | [Cleverflow / Mockflow](https://mockflow.com) | Free wireframing & UI planning |
 
 ### AI Design Tools
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 319 | [Figma AI / Make](https://www.figma.com) | Native AI features inside Figma |
-| 320 | [Galileo AI](https://www.usegalileo.ai) | Text-to-UI design generation |
-| 321 | [Uizard](https://uizard.io) | AI wireframes, mockups & UI (free tier) |
-| 322 | [Khroma](https://www.khroma.co) | AI color discovery |
-| 323 | [Remove.bg](https://www.remove.bg) | Instant AI background removal |
-| 324 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects from images free |
-| 325 | [Upscayl](https://upscayl.org) | Free open-source AI image upscaler |
-| 326 | [Recraft](https://www.recraft.ai) | AI vector & icon generation (free tier) |
-| 327 | [Designer.microsoft](https://designer.microsoft.com) | Free AI graphic design from Microsoft |
-| 328 | [Magician for Figma](https://magician.design) | AI design plugin for Figma |
-| 329 | [Vance AI / Pixelcut](https://www.pixelcut.ai) | AI image editing & upscaling |
-| 330 | [Ideogram](https://ideogram.ai) | AI image gen with great text rendering |
-| 331 | [Krea](https://www.krea.ai) | Real-time AI image generation (free tier) |
-| 332 | [Clipdrop](https://clipdrop.co) | AI image tools — cleanup, relight, upscale |
-| 333 | [Photoroom](https://www.photoroom.com) | AI product photo & background editor |
-| 334 | [Vectorizer.ai](https://vectorizer.ai) | Convert raster images to SVG with AI |
-| 335 | [Playground](https://playground.com) | Free AI image creation tool |
-| 336 | [Leonardo.ai](https://leonardo.ai) | AI art & asset generation (free tier) |
+| 320 | [Figma AI / Make](https://www.figma.com) | Native AI features inside Figma |
+| 321 | [Galileo AI](https://www.usegalileo.ai) | Text-to-UI design generation |
+| 322 | [Uizard](https://uizard.io) | AI wireframes, mockups & UI (free tier) |
+| 323 | [Khroma](https://www.khroma.co) | AI color discovery |
+| 324 | [Remove.bg](https://www.remove.bg) | Instant AI background removal |
+| 325 | [Cleanup.pictures](https://cleanup.pictures) | Remove objects from images free |
+| 326 | [Upscayl](https://upscayl.org) | Free open-source AI image upscaler |
+| 327 | [Recraft](https://www.recraft.ai) | AI vector & icon generation (free tier) |
+| 328 | [Designer.microsoft](https://designer.microsoft.com) | Free AI graphic design from Microsoft |
+| 329 | [Magician for Figma](https://magician.design) | AI design plugin for Figma |
+| 330 | [Vance AI / Pixelcut](https://www.pixelcut.ai) | AI image editing & upscaling |
+| 331 | [Ideogram](https://ideogram.ai) | AI image gen with great text rendering |
+| 332 | [Krea](https://www.krea.ai) | Real-time AI image generation (free tier) |
+| 333 | [Clipdrop](https://clipdrop.co) | AI image tools — cleanup, relight, upscale |
+| 334 | [Photoroom](https://www.photoroom.com) | AI product photo & background editor |
+| 335 | [Vectorizer.ai](https://vectorizer.ai) | Convert raster images to SVG with AI |
+| 336 | [Playground](https://playground.com) | Free AI image creation tool |
+| 337 | [Leonardo.ai](https://leonardo.ai) | AI art & asset generation (free tier) |
 
 ### Logo & Branding
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 337 | [LogoSearch](https://logosear.ch) | Search real-world logos for inspiration |
-| 338 | [Brandfetch](https://brandfetch.com) | Find any brand's logos, colors & fonts |
-| 339 | [SVGL](https://svgl.app) | Free library of SVG brand logos |
-| 340 | [Worldvectorlogo](https://worldvectorlogo.com) | Thousands of free brand logos in SVG |
-| 341 | [Hatchful (Shopify)](https://www.shopify.com/tools/logo-maker) | Free logo maker |
-| 342 | [LogoMakr](https://logomakr.com) | Free in-browser logo creator |
-| 343 | [Looka (free preview)](https://looka.com) | AI logo generator |
-| 344 | [Namelix](https://namelix.com) | AI business name + logo generator |
-| 345 | [Logo.com](https://logo.com) | Free logo maker & brand kit |
+| 338 | [LogoSearch](https://logosear.ch) | Search real-world logos for inspiration |
+| 339 | [Brandfetch](https://brandfetch.com) | Find any brand's logos, colors & fonts |
+| 340 | [SVGL](https://svgl.app) | Free library of SVG brand logos |
+| 341 | [Worldvectorlogo](https://worldvectorlogo.com) | Thousands of free brand logos in SVG |
+| 342 | [Hatchful (Shopify)](https://www.shopify.com/tools/logo-maker) | Free logo maker |
+| 343 | [LogoMakr](https://logomakr.com) | Free in-browser logo creator |
+| 344 | [Looka (free preview)](https://looka.com) | AI logo generator |
+| 345 | [Namelix](https://namelix.com) | AI business name + logo generator |
+| 346 | [Logo.com](https://logo.com) | Free logo maker & brand kit |
 
 ### Image Optimization
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 346 | [TinyPNG](https://tinypng.com) | Smart PNG/JPEG/WebP compression |
-| 347 | [Squoosh](https://squoosh.app) | Google's in-browser image compressor |
-| 348 | [SVGOMG](https://jakearchibald.github.io/svgomg) | Optimize & clean up SVG files |
-| 349 | [Compressor.io](https://compressor.io) | Strong lossy/lossless compression |
-| 350 | [iLoveIMG](https://www.iloveimg.com) | Bulk resize, compress & convert |
-| 351 | [Recompressor](https://recompressor.com) | Find the best compression settings |
-| 352 | [Image Resizer (Photopea)](https://www.photopea.com) | Free resize & export |
-| 353 | [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview |
-| 354 | [ShortPixel](https://shortpixel.com) | Smart image & PDF compression |
-| 355 | [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG |
+| 347 | [TinyPNG](https://tinypng.com) | Smart PNG/JPEG/WebP compression |
+| 348 | [Squoosh](https://squoosh.app) | Google's in-browser image compressor |
+| 349 | [SVGOMG](https://jakearchibald.github.io/svgomg) | Optimize & clean up SVG files |
+| 350 | [Compressor.io](https://compressor.io) | Strong lossy/lossless compression |
+| 351 | [iLoveIMG](https://www.iloveimg.com) | Bulk resize, compress & convert |
+| 352 | [Recompressor](https://recompressor.com) | Find the best compression settings |
+| 353 | [Image Resizer (Photopea)](https://www.photopea.com) | Free resize & export |
+| 354 | [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview |
+| 355 | [ShortPixel](https://shortpixel.com) | Smart image & PDF compression |
+| 356 | [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG |
 
 ### Accessibility
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 356 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker) | The standard color-contrast checker |
-| 357 | [Stark](https://www.getstark.co) | Accessibility toolkit for Figma & browsers |
-| 358 | [Who Can Use](https://www.whocanuse.com) | See how color combos affect vision types |
-| 359 | [Accessible Colors](https://accessible-colors.com) | Find WCAG-compliant color pairs |
-| 360 | [Contrast Ratio (Lea Verou)](https://contrast-ratio.com) | Quick contrast calculator |
-| 361 | [Colorblindly / Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator) | Color-blindness simulator |
-| 362 | [A11y Project](https://www.a11yproject.com) | Community-driven accessibility checklist & docs |
-| 363 | [Able (Figma plugin)](https://www.figma.com/community/plugin/734693888346260052) | Contrast checking in Figma |
-| 364 | [WAVE](https://wave.webaim.org) | Free web accessibility evaluation tool |
-| 365 | [axe DevTools](https://www.deque.com/axe) | Industry-standard a11y testing engine |
-| 366 | [Color Review](https://color.review) | Check contrast as you tune colors |
-| 367 | [Contrast Grid](https://contrast-grid.eightshapes.com) | Test many color combos at once |
+| 357 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker) | The standard color-contrast checker |
+| 358 | [Stark](https://www.getstark.co) | Accessibility toolkit for Figma & browsers |
+| 359 | [Who Can Use](https://www.whocanuse.com) | See how color combos affect vision types |
+| 360 | [Accessible Colors](https://accessible-colors.com) | Find WCAG-compliant color pairs |
+| 361 | [Contrast Ratio (Lea Verou)](https://contrast-ratio.com) | Quick contrast calculator |
+| 362 | [Colorblindly / Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator) | Color-blindness simulator |
+| 363 | [A11y Project](https://www.a11yproject.com) | Community-driven accessibility checklist & docs |
+| 364 | [Able (Figma plugin)](https://www.figma.com/community/plugin/734693888346260052) | Contrast checking in Figma |
+| 365 | [WAVE](https://wave.webaim.org) | Free web accessibility evaluation tool |
+| 366 | [axe DevTools](https://www.deque.com/axe) | Industry-standard a11y testing engine |
+| 367 | [Color Review](https://color.review) | Check contrast as you tune colors |
+| 368 | [Contrast Grid](https://contrast-grid.eightshapes.com) | Test many color combos at once |
 
 ### Browser Extensions
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 368 | [WhatFont](https://www.chromeextensionkit.com) | Identify fonts on any web page |
-| 369 | [ColorZilla](https://www.colorzilla.com) | Eyedropper & color picker for the browser |
-| 370 | [CSS Peeper](https://csspeeper.com) | Inspect styles, colors & assets of sites |
-| 371 | [VisBug](https://visbug.web.app) | Google's browser design debug toolbar |
-| 372 | [Window Resizer](https://chromewebstore.google.com) | Test responsive breakpoints |
-| 373 | [Fonts Ninja](https://www.fonts.ninja) | Identify, try & buy fonts from any site |
-| 374 | [WhatRuns](https://www.whatruns.com) | Discover the tech & fonts a site uses |
-| 375 | [Page Ruler / Dimensions](https://felixniklas.com/dimensions) | Measure elements on screen |
+| 369 | [WhatFont](https://www.chromeextensionkit.com) | Identify fonts on any web page |
+| 370 | [ColorZilla](https://www.colorzilla.com) | Eyedropper & color picker for the browser |
+| 371 | [CSS Peeper](https://csspeeper.com) | Inspect styles, colors & assets of sites |
+| 372 | [VisBug](https://visbug.web.app) | Google's browser design debug toolbar |
+| 373 | [Window Resizer](https://chromewebstore.google.com) | Test responsive breakpoints |
+| 374 | [Fonts Ninja](https://www.fonts.ninja) | Identify, try & buy fonts from any site |
+| 375 | [WhatRuns](https://www.whatruns.com) | Discover the tech & fonts a site uses |
+| 376 | [Page Ruler / Dimensions](https://felixniklas.com/dimensions) | Measure elements on screen |
 
 ## Email & Slides
 
@@ -577,23 +578,23 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 376 | [Really Good Emails](https://reallygoodemails.com) | The best email design gallery |
-| 377 | [MJML](https://mjml.io) | Open-source responsive email framework |
-| 378 | [Stripo](https://stripo.email) | Free email template builder |
-| 379 | [BEE Free](https://beefree.io) | Drag-and-drop email editor |
-| 380 | [Litmus Community Templates](https://www.litmus.com/community/templates) | Free responsive email templates |
-| 381 | [Email Love](https://emaillove.com) | Curated email design inspiration |
+| 377 | [Really Good Emails](https://reallygoodemails.com) | The best email design gallery |
+| 378 | [MJML](https://mjml.io) | Open-source responsive email framework |
+| 379 | [Stripo](https://stripo.email) | Free email template builder |
+| 380 | [BEE Free](https://beefree.io) | Drag-and-drop email editor |
+| 381 | [Litmus Community Templates](https://www.litmus.com/community/templates) | Free responsive email templates |
+| 382 | [Email Love](https://emaillove.com) | Curated email design inspiration |
 
 ### Presentations
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 382 | [Slidesgo](https://slidesgo.com) | Free Google Slides & PowerPoint templates |
-| 383 | [SlidesCarnival](https://www.slidescarnival.com) | Free presentation templates |
-| 384 | [Pitch](https://pitch.com) | Modern collaborative presentation tool (free) |
-| 385 | [Canva Presentations](https://www.canva.com/presentations) | Easy free presentation maker |
-| 386 | [Beautiful.ai](https://www.beautiful.ai) | AI-assisted slide design (free trial) |
-| 387 | [Gamma](https://gamma.app) | AI presentation & doc generator (free tier) |
+| 383 | [Slidesgo](https://slidesgo.com) | Free Google Slides & PowerPoint templates |
+| 384 | [SlidesCarnival](https://www.slidescarnival.com) | Free presentation templates |
+| 385 | [Pitch](https://pitch.com) | Modern collaborative presentation tool (free) |
+| 386 | [Canva Presentations](https://www.canva.com/presentations) | Easy free presentation maker |
+| 387 | [Beautiful.ai](https://www.beautiful.ai) | AI-assisted slide design (free trial) |
+| 388 | [Gamma](https://gamma.app) | AI presentation & doc generator (free tier) |
 
 ## Inspiration & Learning
 
@@ -601,79 +602,79 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 388 | [Dribbble](https://dribbble.com) | The largest designer showcase community |
-| 389 | [Behance](https://www.behance.net) | Adobe's portfolio & project platform |
-| 390 | [Awwwards](https://www.awwwards.com) | The best in web design, awarded daily |
-| 391 | [Mobbin](https://mobbin.com) | Real mobile & web app UI patterns |
-| 392 | [Land-book](https://land-book.com) | Landing page design gallery |
-| 393 | [Godly](https://godly.website) | Astronomically good web design inspiration |
-| 394 | [SaaS Landing Page](https://saaslandingpage.com) | SaaS landing page examples |
-| 395 | [Refero](https://refero.design) | Searchable real product UI screenshots |
-| 396 | [Page Flows](https://pageflows.com) | Recorded real product user flows |
-| 397 | [Calltoidea](https://www.calltoidea.com) | UI patterns sorted by element |
-| 398 | [Httpster](https://httpster.net) | Curated modern website inspiration |
-| 399 | [Lapa Ninja](https://www.lapa.ninja) | Best landing page designs |
-| 400 | [UI Garage](https://uigarage.net) | Daily UI inspiration by pattern |
-| 401 | [Collect UI](https://collectui.com) | Daily inspiration from Dribbble shots |
-| 402 | [Nicelydone](https://nicelydone.club) | SaaS & web app screenshots library |
-| 403 | [Screenlane](https://screenlane.com) | Latest mobile & web UI trends |
-| 404 | [One Page Love](https://onepagelove.com) | The best one-page website designs |
-| 405 | [SiteInspire](https://www.siteinspire.com) | Curated web design showcase |
-| 406 | [Landingfolio](https://www.landingfolio.com) | Landing page inspiration & components |
-| 407 | [Minimal Gallery](https://minimal.gallery) | Beautifully minimal websites |
-| 408 | [Footer Design](https://www.footer.design) | Inspiration just for footers |
-| 409 | [Navbar Gallery](https://navbar.gallery) | Inspiration just for navbars |
-| 410 | [Mobile Patterns](https://www.mobile-patterns.com) | Mobile UI patterns by element |
-| 411 | [Pttrns](https://pttrns.com) | Mobile design patterns library |
-| 412 | [UI Sources](https://www.uisources.com) | Real app flows & interactions |
-| 413 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites |
-| 414 | [Curated.design](https://www.curated.design) | Hand-picked web design inspiration |
+| 389 | [Dribbble](https://dribbble.com) | The largest designer showcase community |
+| 390 | [Behance](https://www.behance.net) | Adobe's portfolio & project platform |
+| 391 | [Awwwards](https://www.awwwards.com) | The best in web design, awarded daily |
+| 392 | [Mobbin](https://mobbin.com) | Real mobile & web app UI patterns |
+| 393 | [Land-book](https://land-book.com) | Landing page design gallery |
+| 394 | [Godly](https://godly.website) | Astronomically good web design inspiration |
+| 395 | [SaaS Landing Page](https://saaslandingpage.com) | SaaS landing page examples |
+| 396 | [Refero](https://refero.design) | Searchable real product UI screenshots |
+| 397 | [Page Flows](https://pageflows.com) | Recorded real product user flows |
+| 398 | [Calltoidea](https://www.calltoidea.com) | UI patterns sorted by element |
+| 399 | [Httpster](https://httpster.net) | Curated modern website inspiration |
+| 400 | [Lapa Ninja](https://www.lapa.ninja) | Best landing page designs |
+| 401 | [UI Garage](https://uigarage.net) | Daily UI inspiration by pattern |
+| 402 | [Collect UI](https://collectui.com) | Daily inspiration from Dribbble shots |
+| 403 | [Nicelydone](https://nicelydone.club) | SaaS & web app screenshots library |
+| 404 | [Screenlane](https://screenlane.com) | Latest mobile & web UI trends |
+| 405 | [One Page Love](https://onepagelove.com) | The best one-page website designs |
+| 406 | [SiteInspire](https://www.siteinspire.com) | Curated web design showcase |
+| 407 | [Landingfolio](https://www.landingfolio.com) | Landing page inspiration & components |
+| 408 | [Minimal Gallery](https://minimal.gallery) | Beautifully minimal websites |
+| 409 | [Footer Design](https://www.footer.design) | Inspiration just for footers |
+| 410 | [Navbar Gallery](https://navbar.gallery) | Inspiration just for navbars |
+| 411 | [Mobile Patterns](https://www.mobile-patterns.com) | Mobile UI patterns by element |
+| 412 | [Pttrns](https://pttrns.com) | Mobile design patterns library |
+| 413 | [UI Sources](https://www.uisources.com) | Real app flows & interactions |
+| 414 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites |
+| 415 | [Curated.design](https://www.curated.design) | Hand-picked web design inspiration |
 
 ### Learning & Blogs
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 415 | [Smashing Magazine](https://www.smashingmagazine.com) | In-depth design & dev articles |
-| 416 | [NN/g (Nielsen Norman)](https://www.nngroup.com/articles) | The authority on UX research |
-| 417 | [Laws of UX](https://lawsofux.com) | Key UX principles, beautifully explained |
-| 418 | [Refactoring UI](https://www.refactoringui.com) | Practical visual design tips for non-designers |
-| 419 | [Learn UI Design (blog)](https://www.learnui.design/blog) | Tactical UI design articles |
-| 420 | [UX Collective](https://uxdesign.cc) | One of the biggest design publications |
-| 421 | [Designer Hangout / UX Planet](https://uxplanet.org) | UX articles & community |
-| 422 | [Checklist Design](https://www.checklist.design) | Best-practice checklists per UI element |
-| 423 | [UI Patterns](https://ui-patterns.com) | Catalog of UI design patterns |
-| 424 | [Goodpractices / Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules) | Safe visual design rules |
-| 425 | [Practical UI (book)](https://www.practical-ui.com) | Rules & guidelines reference |
-| 426 | [Growth.Design](https://growth.design/case-studies) | UX case studies as comics |
-| 427 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable, in-depth UX courses & free articles |
-| 428 | [Hack Design](https://hackdesign.org) | Free design course delivered by email |
-| 429 | [UX Tools](https://uxtools.co) | Tool guides & annual design-tool surveys |
-| 430 | [Built for Mars](https://builtformars.com) | Deep real-world UX teardowns |
-| 431 | [Roadmap.sh (UX)](https://roadmap.sh) | Community learning roadmaps |
-| 432 | [Design+Code](https://designcode.io) | Design & code video courses (free intros) |
+| 416 | [Smashing Magazine](https://www.smashingmagazine.com) | In-depth design & dev articles |
+| 417 | [NN/g (Nielsen Norman)](https://www.nngroup.com/articles) | The authority on UX research |
+| 418 | [Laws of UX](https://lawsofux.com) | Key UX principles, beautifully explained |
+| 419 | [Refactoring UI](https://www.refactoringui.com) | Practical visual design tips for non-designers |
+| 420 | [Learn UI Design (blog)](https://www.learnui.design/blog) | Tactical UI design articles |
+| 421 | [UX Collective](https://uxdesign.cc) | One of the biggest design publications |
+| 422 | [Designer Hangout / UX Planet](https://uxplanet.org) | UX articles & community |
+| 423 | [Checklist Design](https://www.checklist.design) | Best-practice checklists per UI element |
+| 424 | [UI Patterns](https://ui-patterns.com) | Catalog of UI design patterns |
+| 425 | [Goodpractices / Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules) | Safe visual design rules |
+| 426 | [Practical UI (book)](https://www.practical-ui.com) | Rules & guidelines reference |
+| 427 | [Growth.Design](https://growth.design/case-studies) | UX case studies as comics |
+| 428 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable, in-depth UX courses & free articles |
+| 429 | [Hack Design](https://hackdesign.org) | Free design course delivered by email |
+| 430 | [UX Tools](https://uxtools.co) | Tool guides & annual design-tool surveys |
+| 431 | [Built for Mars](https://builtformars.com) | Deep real-world UX teardowns |
+| 432 | [Roadmap.sh (UX)](https://roadmap.sh) | Community learning roadmaps |
+| 433 | [Design+Code](https://designcode.io) | Design & code video courses (free intros) |
 
 ### Newsletters
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 433 | [Sidebar](https://sidebar.io) | 5 best design links, daily |
-| 434 | [UX Design Weekly](https://uxdesignweekly.com) | Curated UX links weekly |
-| 435 | [Dense Discovery](https://www.densediscovery.com) | Thoughtful design & tech newsletter |
-| 436 | [Designer News](https://www.designernews.co) | Community design news |
-| 437 | [Case Study Club](https://www.casestudy.club) | Curated UX case studies |
-| 438 | [Femke's Design Newsletter](https://www.femkesvs.com) | Design career & craft |
+| 434 | [Sidebar](https://sidebar.io) | 5 best design links, daily |
+| 435 | [UX Design Weekly](https://uxdesignweekly.com) | Curated UX links weekly |
+| 436 | [Dense Discovery](https://www.densediscovery.com) | Thoughtful design & tech newsletter |
+| 437 | [Designer News](https://www.designernews.co) | Community design news |
+| 438 | [Case Study Club](https://www.casestudy.club) | Curated UX case studies |
+| 439 | [Femke's Design Newsletter](https://www.femkesvs.com) | Design career & craft |
 
 ### Podcasts & YouTube
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 439 | [The Futur](https://www.youtube.com/@thefutur) | Design business & creative career |
-| 440 | [Flux Academy](https://www.youtube.com/@FluxAcademy) | Web design & freelancing |
-| 441 | [DesignCourse](https://www.youtube.com/@DesignCourse) | UI/UX & front-end tutorials |
-| 442 | [AJ&Smart](https://www.youtube.com/@AJSmart) | Design sprints & product design |
-| 443 | [Honest UX Talks](https://honestuxtalks.com) | Candid UX career conversations |
-| 444 | [Design Better Podcast](https://www.designbetter.co/podcast) | Conversations with design leaders |
-| 445 | [Layout (Relay FM)](https://www.relay.fm/layout) | Design craft & career talk |
+| 440 | [The Futur](https://www.youtube.com/@thefutur) | Design business & creative career |
+| 441 | [Flux Academy](https://www.youtube.com/@FluxAcademy) | Web design & freelancing |
+| 442 | [DesignCourse](https://www.youtube.com/@DesignCourse) | UI/UX & front-end tutorials |
+| 443 | [AJ&Smart](https://www.youtube.com/@AJSmart) | Design sprints & product design |
+| 444 | [Honest UX Talks](https://honestuxtalks.com) | Candid UX career conversations |
+| 445 | [Design Better Podcast](https://www.designbetter.co/podcast) | Conversations with design leaders |
+| 446 | [Layout (Relay FM)](https://www.relay.fm/layout) | Design craft & career talk |
 
 ## Columns (CSV)
 
