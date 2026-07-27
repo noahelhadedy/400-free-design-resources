@@ -344,7 +344,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 211 | [Brandcolors](https://brandcolors.net) | Official colors of popular brands |
 | 212 | [Material Palette](https://www.materialpalette.com) | Generate Material color schemes |
 | 213 | [Palettte App](https://palettte.app) | Edit & refine color systems |
-| 214 | [Chromo](https://www.readytools.co/chromo) | Free color intelligence tool – formats, palettes, contrast, exports & more |
+| 214 | [Chromo (ReadyTools)](https://www.readytools.co/chromo) | Free color intelligence tool – formats, palettes, contrast, exports & more |
 
 ### Gradients
 
