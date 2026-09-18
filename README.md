@@ -7,7 +7,7 @@
 
 A curated list of 400+ free design resources — fonts, icons, illustrations, mockups, UI kits, color tools, stock media, and more — grouped so you can find what you need fast.
 
-**Total:** 445 resources across 30 categories in 7 groups.
+**Total:** 446 resources across 30 categories in 7 groups.
 
 The full list is also available as [`free-design-resources-notion.csv`](free-design-resources-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -49,7 +49,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 - [Design & Prototyping Tools](#design--prototyping-tools) — 16
 - [Wireframing](#wireframing) — 6
 - [AI Design Tools](#ai-design-tools) — 18
-- [Logo & Branding](#logo--branding) — 9
+- [Logo & Branding](#logo--branding) — 10
 - [Image Optimization](#image-optimization) — 10
 - [Accessibility](#accessibility) — 12
 - [Browser Extensions](#browser-extensions) — 8
@@ -525,51 +525,52 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 343 | [Looka (free preview)](https://looka.com) | AI logo generator |
 | 344 | [Namelix](https://namelix.com) | AI business name + logo generator |
 | 345 | [Logo.com](https://logo.com) | Free logo maker & brand kit |
+| 346 | [Generate Names](https://generatenames.io) | Free name generator for brands, fantasy, gaming & pets |
 
 ### Image Optimization
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 346 | [TinyPNG](https://tinypng.com) | Smart PNG/JPEG/WebP compression |
-| 347 | [Squoosh](https://squoosh.app) | Google's in-browser image compressor |
-| 348 | [SVGOMG](https://jakearchibald.github.io/svgomg) | Optimize & clean up SVG files |
-| 349 | [Compressor.io](https://compressor.io) | Strong lossy/lossless compression |
-| 350 | [iLoveIMG](https://www.iloveimg.com) | Bulk resize, compress & convert |
-| 351 | [Recompressor](https://recompressor.com) | Find the best compression settings |
-| 352 | [Image Resizer (Photopea)](https://www.photopea.com) | Free resize & export |
-| 353 | [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview |
-| 354 | [ShortPixel](https://shortpixel.com) | Smart image & PDF compression |
-| 355 | [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG |
+| 347 | [TinyPNG](https://tinypng.com) | Smart PNG/JPEG/WebP compression |
+| 348 | [Squoosh](https://squoosh.app) | Google's in-browser image compressor |
+| 349 | [SVGOMG](https://jakearchibald.github.io/svgomg) | Optimize & clean up SVG files |
+| 350 | [Compressor.io](https://compressor.io) | Strong lossy/lossless compression |
+| 351 | [iLoveIMG](https://www.iloveimg.com) | Bulk resize, compress & convert |
+| 352 | [Recompressor](https://recompressor.com) | Find the best compression settings |
+| 353 | [Image Resizer (Photopea)](https://www.photopea.com) | Free resize & export |
+| 354 | [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview |
+| 355 | [ShortPixel](https://shortpixel.com) | Smart image & PDF compression |
+| 356 | [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG |
 
 ### Accessibility
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 356 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker) | The standard color-contrast checker |
-| 357 | [Stark](https://www.getstark.co) | Accessibility toolkit for Figma & browsers |
-| 358 | [Who Can Use](https://www.whocanuse.com) | See how color combos affect vision types |
-| 359 | [Accessible Colors](https://accessible-colors.com) | Find WCAG-compliant color pairs |
-| 360 | [Contrast Ratio (Lea Verou)](https://contrast-ratio.com) | Quick contrast calculator |
-| 361 | [Colorblindly / Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator) | Color-blindness simulator |
-| 362 | [A11y Project](https://www.a11yproject.com) | Community-driven accessibility checklist & docs |
-| 363 | [Able (Figma plugin)](https://www.figma.com/community/plugin/734693888346260052) | Contrast checking in Figma |
-| 364 | [WAVE](https://wave.webaim.org) | Free web accessibility evaluation tool |
-| 365 | [axe DevTools](https://www.deque.com/axe) | Industry-standard a11y testing engine |
-| 366 | [Color Review](https://color.review) | Check contrast as you tune colors |
-| 367 | [Contrast Grid](https://contrast-grid.eightshapes.com) | Test many color combos at once |
+| 357 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker) | The standard color-contrast checker |
+| 358 | [Stark](https://www.getstark.co) | Accessibility toolkit for Figma & browsers |
+| 359 | [Who Can Use](https://www.whocanuse.com) | See how color combos affect vision types |
+| 360 | [Accessible Colors](https://accessible-colors.com) | Find WCAG-compliant color pairs |
+| 361 | [Contrast Ratio (Lea Verou)](https://contrast-ratio.com) | Quick contrast calculator |
+| 362 | [Colorblindly / Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator) | Color-blindness simulator |
+| 363 | [A11y Project](https://www.a11yproject.com) | Community-driven accessibility checklist & docs |
+| 364 | [Able (Figma plugin)](https://www.figma.com/community/plugin/734693888346260052) | Contrast checking in Figma |
+| 365 | [WAVE](https://wave.webaim.org) | Free web accessibility evaluation tool |
+| 366 | [axe DevTools](https://www.deque.com/axe) | Industry-standard a11y testing engine |
+| 367 | [Color Review](https://color.review) | Check contrast as you tune colors |
+| 368 | [Contrast Grid](https://contrast-grid.eightshapes.com) | Test many color combos at once |
 
 ### Browser Extensions
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 368 | [WhatFont](https://www.chromeextensionkit.com) | Identify fonts on any web page |
-| 369 | [ColorZilla](https://www.colorzilla.com) | Eyedropper & color picker for the browser |
-| 370 | [CSS Peeper](https://csspeeper.com) | Inspect styles, colors & assets of sites |
-| 371 | [VisBug](https://visbug.web.app) | Google's browser design debug toolbar |
-| 372 | [Window Resizer](https://chromewebstore.google.com) | Test responsive breakpoints |
-| 373 | [Fonts Ninja](https://www.fonts.ninja) | Identify, try & buy fonts from any site |
-| 374 | [WhatRuns](https://www.whatruns.com) | Discover the tech & fonts a site uses |
-| 375 | [Page Ruler / Dimensions](https://felixniklas.com/dimensions) | Measure elements on screen |
+| 369 | [WhatFont](https://www.chromeextensionkit.com) | Identify fonts on any web page |
+| 370 | [ColorZilla](https://www.colorzilla.com) | Eyedropper & color picker for the browser |
+| 371 | [CSS Peeper](https://csspeeper.com) | Inspect styles, colors & assets of sites |
+| 372 | [VisBug](https://visbug.web.app) | Google's browser design debug toolbar |
+| 373 | [Window Resizer](https://chromewebstore.google.com) | Test responsive breakpoints |
+| 374 | [Fonts Ninja](https://www.fonts.ninja) | Identify, try & buy fonts from any site |
+| 375 | [WhatRuns](https://www.whatruns.com) | Discover the tech & fonts a site uses |
+| 376 | [Page Ruler / Dimensions](https://felixniklas.com/dimensions) | Measure elements on screen |
 
 ## Email & Slides
 
@@ -577,23 +578,23 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 376 | [Really Good Emails](https://reallygoodemails.com) | The best email design gallery |
-| 377 | [MJML](https://mjml.io) | Open-source responsive email framework |
-| 378 | [Stripo](https://stripo.email) | Free email template builder |
-| 379 | [BEE Free](https://beefree.io) | Drag-and-drop email editor |
-| 380 | [Litmus Community Templates](https://www.litmus.com/community/templates) | Free responsive email templates |
-| 381 | [Email Love](https://emaillove.com) | Curated email design inspiration |
+| 377 | [Really Good Emails](https://reallygoodemails.com) | The best email design gallery |
+| 378 | [MJML](https://mjml.io) | Open-source responsive email framework |
+| 379 | [Stripo](https://stripo.email) | Free email template builder |
+| 380 | [BEE Free](https://beefree.io) | Drag-and-drop email editor |
+| 381 | [Litmus Community Templates](https://www.litmus.com/community/templates) | Free responsive email templates |
+| 382 | [Email Love](https://emaillove.com) | Curated email design inspiration |
 
 ### Presentations
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 382 | [Slidesgo](https://slidesgo.com) | Free Google Slides & PowerPoint templates |
-| 383 | [SlidesCarnival](https://www.slidescarnival.com) | Free presentation templates |
-| 384 | [Pitch](https://pitch.com) | Modern collaborative presentation tool (free) |
-| 385 | [Canva Presentations](https://www.canva.com/presentations) | Easy free presentation maker |
-| 386 | [Beautiful.ai](https://www.beautiful.ai) | AI-assisted slide design (free trial) |
-| 387 | [Gamma](https://gamma.app) | AI presentation & doc generator (free tier) |
+| 383 | [Slidesgo](https://slidesgo.com) | Free Google Slides & PowerPoint templates |
+| 384 | [SlidesCarnival](https://www.slidescarnival.com) | Free presentation templates |
+| 385 | [Pitch](https://pitch.com) | Modern collaborative presentation tool (free) |
+| 386 | [Canva Presentations](https://www.canva.com/presentations) | Easy free presentation maker |
+| 387 | [Beautiful.ai](https://www.beautiful.ai) | AI-assisted slide design (free trial) |
+| 388 | [Gamma](https://gamma.app) | AI presentation & doc generator (free tier) |
 
 ## Inspiration & Learning
 
@@ -601,79 +602,79 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 388 | [Dribbble](https://dribbble.com) | The largest designer showcase community |
-| 389 | [Behance](https://www.behance.net) | Adobe's portfolio & project platform |
-| 390 | [Awwwards](https://www.awwwards.com) | The best in web design, awarded daily |
-| 391 | [Mobbin](https://mobbin.com) | Real mobile & web app UI patterns |
-| 392 | [Land-book](https://land-book.com) | Landing page design gallery |
-| 393 | [Godly](https://godly.website) | Astronomically good web design inspiration |
-| 394 | [SaaS Landing Page](https://saaslandingpage.com) | SaaS landing page examples |
-| 395 | [Refero](https://refero.design) | Searchable real product UI screenshots |
-| 396 | [Page Flows](https://pageflows.com) | Recorded real product user flows |
-| 397 | [Calltoidea](https://www.calltoidea.com) | UI patterns sorted by element |
-| 398 | [Httpster](https://httpster.net) | Curated modern website inspiration |
-| 399 | [Lapa Ninja](https://www.lapa.ninja) | Best landing page designs |
-| 400 | [UI Garage](https://uigarage.net) | Daily UI inspiration by pattern |
-| 401 | [Collect UI](https://collectui.com) | Daily inspiration from Dribbble shots |
-| 402 | [Nicelydone](https://nicelydone.club) | SaaS & web app screenshots library |
-| 403 | [Screenlane](https://screenlane.com) | Latest mobile & web UI trends |
-| 404 | [One Page Love](https://onepagelove.com) | The best one-page website designs |
-| 405 | [SiteInspire](https://www.siteinspire.com) | Curated web design showcase |
-| 406 | [Landingfolio](https://www.landingfolio.com) | Landing page inspiration & components |
-| 407 | [Minimal Gallery](https://minimal.gallery) | Beautifully minimal websites |
-| 408 | [Footer Design](https://www.footer.design) | Inspiration just for footers |
-| 409 | [Navbar Gallery](https://navbar.gallery) | Inspiration just for navbars |
-| 410 | [Mobile Patterns](https://www.mobile-patterns.com) | Mobile UI patterns by element |
-| 411 | [Pttrns](https://pttrns.com) | Mobile design patterns library |
-| 412 | [UI Sources](https://www.uisources.com) | Real app flows & interactions |
-| 413 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites |
-| 414 | [Curated.design](https://www.curated.design) | Hand-picked web design inspiration |
+| 389 | [Dribbble](https://dribbble.com) | The largest designer showcase community |
+| 390 | [Behance](https://www.behance.net) | Adobe's portfolio & project platform |
+| 391 | [Awwwards](https://www.awwwards.com) | The best in web design, awarded daily |
+| 392 | [Mobbin](https://mobbin.com) | Real mobile & web app UI patterns |
+| 393 | [Land-book](https://land-book.com) | Landing page design gallery |
+| 394 | [Godly](https://godly.website) | Astronomically good web design inspiration |
+| 395 | [SaaS Landing Page](https://saaslandingpage.com) | SaaS landing page examples |
+| 396 | [Refero](https://refero.design) | Searchable real product UI screenshots |
+| 397 | [Page Flows](https://pageflows.com) | Recorded real product user flows |
+| 398 | [Calltoidea](https://www.calltoidea.com) | UI patterns sorted by element |
+| 399 | [Httpster](https://httpster.net) | Curated modern website inspiration |
+| 400 | [Lapa Ninja](https://www.lapa.ninja) | Best landing page designs |
+| 401 | [UI Garage](https://uigarage.net) | Daily UI inspiration by pattern |
+| 402 | [Collect UI](https://collectui.com) | Daily inspiration from Dribbble shots |
+| 403 | [Nicelydone](https://nicelydone.club) | SaaS & web app screenshots library |
+| 404 | [Screenlane](https://screenlane.com) | Latest mobile & web UI trends |
+| 405 | [One Page Love](https://onepagelove.com) | The best one-page website designs |
+| 406 | [SiteInspire](https://www.siteinspire.com) | Curated web design showcase |
+| 407 | [Landingfolio](https://www.landingfolio.com) | Landing page inspiration & components |
+| 408 | [Minimal Gallery](https://minimal.gallery) | Beautifully minimal websites |
+| 409 | [Footer Design](https://www.footer.design) | Inspiration just for footers |
+| 410 | [Navbar Gallery](https://navbar.gallery) | Inspiration just for navbars |
+| 411 | [Mobile Patterns](https://www.mobile-patterns.com) | Mobile UI patterns by element |
+| 412 | [Pttrns](https://pttrns.com) | Mobile design patterns library |
+| 413 | [UI Sources](https://www.uisources.com) | Real app flows & interactions |
+| 414 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites |
+| 415 | [Curated.design](https://www.curated.design) | Hand-picked web design inspiration |
 
 ### Learning & Blogs
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 415 | [Smashing Magazine](https://www.smashingmagazine.com) | In-depth design & dev articles |
-| 416 | [NN/g (Nielsen Norman)](https://www.nngroup.com/articles) | The authority on UX research |
-| 417 | [Laws of UX](https://lawsofux.com) | Key UX principles, beautifully explained |
-| 418 | [Refactoring UI](https://www.refactoringui.com) | Practical visual design tips for non-designers |
-| 419 | [Learn UI Design (blog)](https://www.learnui.design/blog) | Tactical UI design articles |
-| 420 | [UX Collective](https://uxdesign.cc) | One of the biggest design publications |
-| 421 | [Designer Hangout / UX Planet](https://uxplanet.org) | UX articles & community |
-| 422 | [Checklist Design](https://www.checklist.design) | Best-practice checklists per UI element |
-| 423 | [UI Patterns](https://ui-patterns.com) | Catalog of UI design patterns |
-| 424 | [Goodpractices / Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules) | Safe visual design rules |
-| 425 | [Practical UI (book)](https://www.practical-ui.com) | Rules & guidelines reference |
-| 426 | [Growth.Design](https://growth.design/case-studies) | UX case studies as comics |
-| 427 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable, in-depth UX courses & free articles |
-| 428 | [Hack Design](https://hackdesign.org) | Free design course delivered by email |
-| 429 | [UX Tools](https://uxtools.co) | Tool guides & annual design-tool surveys |
-| 430 | [Built for Mars](https://builtformars.com) | Deep real-world UX teardowns |
-| 431 | [Roadmap.sh (UX)](https://roadmap.sh) | Community learning roadmaps |
-| 432 | [Design+Code](https://designcode.io) | Design & code video courses (free intros) |
+| 416 | [Smashing Magazine](https://www.smashingmagazine.com) | In-depth design & dev articles |
+| 417 | [NN/g (Nielsen Norman)](https://www.nngroup.com/articles) | The authority on UX research |
+| 418 | [Laws of UX](https://lawsofux.com) | Key UX principles, beautifully explained |
+| 419 | [Refactoring UI](https://www.refactoringui.com) | Practical visual design tips for non-designers |
+| 420 | [Learn UI Design (blog)](https://www.learnui.design/blog) | Tactical UI design articles |
+| 421 | [UX Collective](https://uxdesign.cc) | One of the biggest design publications |
+| 422 | [Designer Hangout / UX Planet](https://uxplanet.org) | UX articles & community |
+| 423 | [Checklist Design](https://www.checklist.design) | Best-practice checklists per UI element |
+| 424 | [UI Patterns](https://ui-patterns.com) | Catalog of UI design patterns |
+| 425 | [Goodpractices / Anthony Hobday](https://anthonyhobday.com/sideprojects/saferules) | Safe visual design rules |
+| 426 | [Practical UI (book)](https://www.practical-ui.com) | Rules & guidelines reference |
+| 427 | [Growth.Design](https://growth.design/case-studies) | UX case studies as comics |
+| 428 | [Interaction Design Foundation](https://www.interaction-design.org) | Affordable, in-depth UX courses & free articles |
+| 429 | [Hack Design](https://hackdesign.org) | Free design course delivered by email |
+| 430 | [UX Tools](https://uxtools.co) | Tool guides & annual design-tool surveys |
+| 431 | [Built for Mars](https://builtformars.com) | Deep real-world UX teardowns |
+| 432 | [Roadmap.sh (UX)](https://roadmap.sh) | Community learning roadmaps |
+| 433 | [Design+Code](https://designcode.io) | Design & code video courses (free intros) |
 
 ### Newsletters
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 433 | [Sidebar](https://sidebar.io) | 5 best design links, daily |
-| 434 | [UX Design Weekly](https://uxdesignweekly.com) | Curated UX links weekly |
-| 435 | [Dense Discovery](https://www.densediscovery.com) | Thoughtful design & tech newsletter |
-| 436 | [Designer News](https://www.designernews.co) | Community design news |
-| 437 | [Case Study Club](https://www.casestudy.club) | Curated UX case studies |
-| 438 | [Femke's Design Newsletter](https://www.femkesvs.com) | Design career & craft |
+| 434 | [Sidebar](https://sidebar.io) | 5 best design links, daily |
+| 435 | [UX Design Weekly](https://uxdesignweekly.com) | Curated UX links weekly |
+| 436 | [Dense Discovery](https://www.densediscovery.com) | Thoughtful design & tech newsletter |
+| 437 | [Designer News](https://www.designernews.co) | Community design news |
+| 438 | [Case Study Club](https://www.casestudy.club) | Curated UX case studies |
+| 439 | [Femke's Design Newsletter](https://www.femkesvs.com) | Design career & craft |
 
 ### Podcasts & YouTube
 
 | # | Resource | Description |
 | --- | --- | --- |
-| 439 | [The Futur](https://www.youtube.com/@thefutur) | Design business & creative career |
-| 440 | [Flux Academy](https://www.youtube.com/@FluxAcademy) | Web design & freelancing |
-| 441 | [DesignCourse](https://www.youtube.com/@DesignCourse) | UI/UX & front-end tutorials |
-| 442 | [AJ&Smart](https://www.youtube.com/@AJSmart) | Design sprints & product design |
-| 443 | [Honest UX Talks](https://honestuxtalks.com) | Candid UX career conversations |
-| 444 | [Design Better Podcast](https://www.designbetter.co/podcast) | Conversations with design leaders |
-| 445 | [Layout (Relay FM)](https://www.relay.fm/layout) | Design craft & career talk |
+| 440 | [The Futur](https://www.youtube.com/@thefutur) | Design business & creative career |
+| 441 | [Flux Academy](https://www.youtube.com/@FluxAcademy) | Web design & freelancing |
+| 442 | [DesignCourse](https://www.youtube.com/@DesignCourse) | UI/UX & front-end tutorials |
+| 443 | [AJ&Smart](https://www.youtube.com/@AJSmart) | Design sprints & product design |
+| 444 | [Honest UX Talks](https://honestuxtalks.com) | Candid UX career conversations |
+| 445 | [Design Better Podcast](https://www.designbetter.co/podcast) | Conversations with design leaders |
+| 446 | [Layout (Relay FM)](https://www.relay.fm/layout) | Design craft & career talk |
 
 ## Columns (CSV)
 
