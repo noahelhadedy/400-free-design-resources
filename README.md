@@ -540,6 +540,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 353 | [Optimizilla](https://imagecompressor.com) | Bulk image compressor with preview |
 | 354 | [ShortPixel](https://shortpixel.com) | Smart image & PDF compression |
 | 355 | [Vectorizer (SVG)](https://www.vectorizer.io) | Trace bitmaps into vector SVG |
+| 356 | [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) | Free browser-based HEIC to PNG converter, files never uploaded |
 
 ### Accessibility
 
