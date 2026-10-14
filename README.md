@@ -628,6 +628,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 412 | [UI Sources](https://www.uisources.com) | Real app flows & interactions |
 | 413 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark-mode websites |
 | 414 | [Curated.design](https://www.curated.design) | Hand-picked web design inspiration |
+| 446 | [Design Details](https://designdetails.io) | Live websites with great motion, sorted by sections, type and color |
 
 ### Learning & Blogs
 
