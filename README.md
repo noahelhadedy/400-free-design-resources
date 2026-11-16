@@ -511,6 +511,7 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | 334 | [Vectorizer.ai](https://vectorizer.ai) | Convert raster images to SVG with AI |
 | 335 | [Playground](https://playground.com) | Free AI image creation tool |
 | 336 | [Leonardo.ai](https://leonardo.ai) | AI art & asset generation (free tier) |
+| 446 | [RemoveFree](https://removefree.app) | Browser-local AI background remover, full WxH PNG, no signup |
 
 ### Logo & Branding
 
@@ -685,4 +686,3 @@ The full list is also available as [`free-design-resources-notion.csv`](free-des
 | `Group` | Top-level group |
 | `Description` | Short description |
 | `Link` | Link to the resource |
-
